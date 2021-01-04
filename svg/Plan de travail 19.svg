@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.55" height="841.89" viewBox="0 0 1190.55 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_19);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_19">
+      <rect width="1190.55" height="841.89"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_19" data-name="Plan de travail 19" class="cls-1">
+    <rect class="cls-3" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_150" data-name="Rectangle 150" width="1118.551" height="769.891" transform="translate(36 35.999)"/>
+    <rect id="Rectangle_151" data-name="Rectangle 151" class="cls-2" width="1136.55" height="777.891" transform="translate(27 28.999)"/>
+    <rect id="Rectangle_152" data-name="Rectangle 152" class="cls-2" width="1190.551" height="841.89"/>
+    <rect id="Rectangle_153" data-name="Rectangle 153" class="cls-2" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_154" data-name="Rectangle 154" class="cls-2" width="1190.55" height="841.89"/>
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.55" height="841.89" viewBox="0 0 1190.55 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_27);
+      }
+
+      .cls-2 {
+        font-size: 30px;
+      }
+
+      .cls-14, .cls-2 {
+        font-family: GTAmerica-Bold, GT America;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.017em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.025em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.036em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.083em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.019em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.09em;
+      }
+
+      .cls-9 {
+        fill: #ffce00;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        fill: #f59e00;
+      }
+
+      .cls-12 {
+        fill: #a8ba00;
+      }
+
+      .cls-13 {
+        fill: #008ea5;
+      }
+
+      .cls-14, .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-14 {
+        font-size: 39.6px;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_27">
+      <rect width="1190.55" height="841.89"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_27" data-name="Plan de travail 27" class="cls-1">
+    <rect class="cls-15" width="1190.55" height="841.89"/>
+    <text id="MERCI_DE_VOTRE_PARTICIPATION_" data-name="MERCI DE VOTRE PARTICIPATION !!" class="cls-2" transform="translate(338.883 428.87)"><tspan x="0" y="0">ME</tspan><tspan class="cls-3" y="0">R</tspan><tspan y="0">CI DE </tspan><tspan class="cls-4" y="0">V</tspan><tspan class="cls-5" y="0">O</tspan><tspan y="0">TRE </tspan><tspan class="cls-6" y="0">P</tspan><tspan y="0">A</tspan><tspan class="cls-7" y="0">R</tspan><tspan y="0">TICI</tspan><tspan class="cls-6" y="0">P</tspan><tspan class="cls-8" y="0">A</tspan><tspan y="0">TION !!</tspan></text>
+    <path id="Rectangle_1" data-name="Rectangle 1" class="cls-9" d="M9.623,0h175.1a9.622,9.622,0,0,1,9.622,9.622V120.339a9.622,9.622,0,0,1-9.622,9.622H9.623A9.623,9.623,0,0,1,0,120.338V9.623A9.623,9.623,0,0,1,9.623,0Z" transform="translate(892.636 206.794)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-10" width="212.354" height="137.961" transform="translate(883.636 199.794)"/>
+    <path id="Rectangle_3" data-name="Rectangle 3" class="cls-11" d="M9.623,0h175.1a9.622,9.622,0,0,1,9.622,9.622V120.339a9.622,9.622,0,0,1-9.622,9.622H9.623A9.623,9.623,0,0,1,0,120.338V9.623A9.623,9.623,0,0,1,9.623,0Z" transform="translate(739.594 529.096)"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-10" width="212.35" height="137.961" transform="translate(730.594 522.096)"/>
+    <path id="Tracé_1" data-name="Tracé 1" class="cls-11" d="M7485.53,1943.8a6.89,6.89,0,0,0-6.8,6.98v80.311a6.89,6.89,0,0,0,6.8,6.98h123.686a6.891,6.891,0,0,0,6.8-6.98v-80.311a6.891,6.891,0,0,0-6.8-6.98Z" transform="translate(-7263.3 -1723.78)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-10" width="155.281" height="102.27" transform="translate(206.433 213.024)"/>
+    <path id="Tracé_2" data-name="Tracé 2" class="cls-9" d="M7400.68,2217.443s-9.623,0-9.623,9.623v110.716s0,9.623,9.623,9.623h173.1s9.623,0,9.623-9.623V2227.066s0-9.623-9.623-9.623Z" transform="translate(-7263.3 -1723.78)"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-10" width="210.35" height="137.962" transform="translate(118.757 486.662)"/>
+    <path id="Tracé_3" data-name="Tracé 3" class="cls-12" d="M7601.032,1819.174s-9.623,0-9.623,9.622v125.67s0,9.623,9.623,9.623h181.387s9.623,0,9.623-9.623V1828.8s0-9.622-9.623-9.622Z" transform="translate(-7263.3 -1723.78)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-10" width="218.633" height="152.915" transform="translate(319.109 88.394)"/>
+    <path id="Tracé_4" data-name="Tracé 4" class="cls-12" d="M8199.781,2196.114s-9.624,0-9.624,9.623v52.135s0,9.623,9.624,9.623h82.966s9.623,0,9.623-9.623v-52.135s0-9.623-9.623-9.623Z" transform="translate(-7263.3 -1723.78)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-10" width="120.213" height="79.381" transform="translate(917.857 465.334)"/>
+    <path id="Tracé_5" data-name="Tracé 5" class="cls-13" d="M8082.78,1892.247s-9.623,0-9.623,9.623v44.822s0,9.623,9.623,9.623h82.967s9.623,0,9.623-9.623V1901.87s0-9.623-9.623-9.623Z" transform="translate(-7263.3 -1723.78)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-10" width="120.212" height="72.069" transform="translate(800.857 161.467)"/>
+    <path id="Tracé_6" data-name="Tracé 6" class="cls-13" d="M7564.381,2326.658s-9.623,0-9.623,9.622v115.812s0,9.623,9.623,9.623h225.041s9.623,0,9.623-9.623V2336.28s0-9.622-9.623-9.622Z" transform="translate(-7263.3 -1723.78)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-10" width="262.287" height="143.057" transform="translate(282.458 595.878)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-10" width="1190.551" height="841.89"/>
+    <text id="_..." data-name="..." class="cls-14" transform="translate(970.962 287.318)"><tspan x="0" y="0">...</tspan></text>
+    <text id="_" data-name="?" class="cls-14" transform="translate(850.459 215.92)"><tspan x="0" y="0">?</tspan></text>
+    <text id="_...-2" data-name="..." class="cls-14" transform="translate(411.494 183.368)"><tspan x="0" y="0">...</tspan></text>
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-15" width="12.948" height="5.346" transform="translate(277.725 266.846)"/>
+    <text id="_2" data-name="!!" class="cls-14" transform="translate(210.88 574.14)"><tspan x="0" y="0">!!</tspan></text>
+    <text id="_...-3" data-name="..." class="cls-14" transform="translate(396.683 685.892)"><tspan x="0" y="0">...</tspan></text>
+    <text id="_...-4" data-name="..." class="cls-14" transform="translate(819.849 609.543)"><tspan x="0" y="0">...</tspan></text>
+    <text id="_3" data-name="*" class="cls-14" transform="translate(970.448 528.403)"><tspan x="0" y="0">*</tspan></text>
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-10" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" class="cls-10" width="1190.55" height="841.89"/>
+  </g>
+</svg>

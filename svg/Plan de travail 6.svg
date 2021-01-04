@@ -1,0 +1,356 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.55" height="841.89" viewBox="0 0 1190.55 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_6);
+      }
+
+      .cls-2 {
+        fill: #706f6f;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2, .cls-51 {
+        font-size: 24px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.035em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.034em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.017em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.037em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.039em;
+      }
+
+      .cls-21, .cls-8 {
+        fill: #f59e00;
+      }
+
+      .cls-53, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-21, .cls-30, .cls-39, .cls-9 {
+        font-size: 18px;
+      }
+
+      .cls-51, .cls-9 {
+        font-family: GTAmerica-Light, GT America;
+        font-weight: 300;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.007em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.014em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.004em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.005em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.008em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.009em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.015em;
+      }
+
+      .cls-18, .cls-26, .cls-32, .cls-41 {
+        fill: none;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.002em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.006em;
+      }
+
+      .cls-21, .cls-30, .cls-39 {
+        font-family: GTAmerica-Bold, GT America;
+        font-weight: 700;
+      }
+
+      .cls-22 {
+        letter-spacing: -0.001em;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.082em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.032em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0.006em;
+      }
+
+      .cls-26 {
+        stroke: #f59e00;
+      }
+
+      .cls-26, .cls-32, .cls-41 {
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-27 {
+        letter-spacing: 0.008em;
+      }
+
+      .cls-28, .cls-30 {
+        fill: #a8ba00;
+      }
+
+      .cls-29 {
+        letter-spacing: -0.003em;
+      }
+
+      .cls-31 {
+        letter-spacing: -0.016em;
+      }
+
+      .cls-32 {
+        stroke: #a8ba00;
+      }
+
+      .cls-33 {
+        letter-spacing: -0.022em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0.015em;
+      }
+
+      .cls-35, .cls-39 {
+        fill: #008ea5;
+      }
+
+      .cls-36 {
+        letter-spacing: -0.012em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0.023em;
+      }
+
+      .cls-38 {
+        letter-spacing: 0.018em;
+      }
+
+      .cls-40 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-41 {
+        stroke: #008ea5;
+      }
+
+      .cls-42 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-43 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-44 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-45 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-46 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-47 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-48 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-49 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-50 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-52 {
+        letter-spacing: -0.021em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-188.949" y1="1.178" x2="-188.782" y2="1.178" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.009" stop-color="#fff"/>
+      <stop offset="0.13" stop-color="#fcf6ea"/>
+      <stop offset="0.381" stop-color="#f6e1b3"/>
+      <stop offset="0.737" stop-color="#edbf5d"/>
+      <stop offset="1" stop-color="#e6a51a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-63.157" y1="25.436" x2="-63.101" y2="25.436" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-63.157" y1="4.177" x2="-63.101" y2="4.177" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-128.791" y1="1.178" x2="-128.625" y2="1.178" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.672" stop-color="#50b1c1"/>
+      <stop offset="1" stop-color="#008ea5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="-42.944" y1="25.436" x2="-42.888" y2="25.436" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-6" x1="-42.944" y1="4.177" x2="-42.888" y2="4.177" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-7" x1="-68.555" y1="1.178" x2="-68.388" y2="1.178" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.09" stop-color="#fafbf2"/>
+      <stop offset="0.256" stop-color="#eef2cf"/>
+      <stop offset="0.48" stop-color="#dbe397"/>
+      <stop offset="0.751" stop-color="#c1ce4b"/>
+      <stop offset="1" stop-color="#a8ba00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="-22.702" y1="25.436" x2="-22.646" y2="25.436" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-9" x1="-22.702" y1="4.177" x2="-22.646" y2="4.177" xlink:href="#linear-gradient-7"/>
+    <clipPath id="clip-Plan_de_travail_6">
+      <rect width="1190.55" height="841.89"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_6" data-name="Plan de travail 6" class="cls-1">
+    <rect class="cls-53" width="1190.55" height="841.89"/>
+    <path id="Tracé_786" data-name="Tracé 786" d="M13726.506,45.291a5.39,5.39,0,0,1-3.63,1.169h-.84V42.141h.57a4.536,4.536,0,0,0,4.8-3.39h3.93v21.3h-4.83Zm14.58,14.759h-5.13V55.13h5.13Zm9.061-4.44,3.75-2.64a6.17,6.17,0,0,0,5.789,3.66c2.04,0,3.66-.75,3.66-2.43,0-1.59-.93-2.19-3.09-2.64l-2.85-.6c-3.721-.81-5.88-2.82-5.88-6.389,0-3.9,3.18-6.33,8.31-6.33,3.78,0,6.96,1.38,8.459,4.23l-3.3,2.789a5.976,5.976,0,0,0-5.49-3.269c-2.01,0-3.3.84-3.3,2.19,0,1.38.84,2.069,3.09,2.579l3.09.66c3.78.84,5.819,2.64,5.819,6.3,0,4.05-3.119,6.84-8.7,6.84C13754.916,60.56,13751.616,58.61,13750.146,55.61Zm25.26-3.27-7.08-13.589h5.34l3.75,7.859a7.229,7.229,0,0,1,.51,1.56h.061a7.229,7.229,0,0,1,.51-1.56l3.72-7.859h5.37l-7.08,13.589v7.71h-5.1Zm14.31-13.589h5.61l6.84,12.149a22.169,22.169,0,0,1,1.29,2.76h.06c0-.84-.029-1.71-.029-2.73V38.751h4.649v21.3h-5.4l-7.08-12.27a18.286,18.286,0,0,1-1.26-2.609h-.061c0,.87.03,1.769.03,2.819V60.05h-4.65Zm38.28,4.02h-6.21V60.05h-5.04V42.771h-6.18v-4.02H13828Zm20.729,17.279h-5.069V51.2h-8.189v8.85h-5.069v-21.3h5.069V47.3h8.189V38.751h5.069Zm19.23-3.75v3.75h-14.789v-21.3h14.579V42.5h-9.509v4.8h9v3.72h-9V56.3Zm-9.27-18.839-3.479-3.54h4.17l2.97,3.54Zm10.647,18.149,3.75-2.64a6.171,6.171,0,0,0,5.79,3.66c2.04,0,3.66-.75,3.66-2.43,0-1.59-.931-2.19-3.09-2.64l-2.851-.6c-3.72-.81-5.88-2.82-5.88-6.389,0-3.9,3.18-6.33,8.311-6.33,3.779,0,6.959,1.38,8.459,4.23l-3.3,2.789a5.972,5.972,0,0,0-5.488-3.269c-2.011,0-3.3.84-3.3,2.19,0,1.38.841,2.069,3.091,2.579l3.09.66c3.778.84,5.818,2.64,5.818,6.3,0,4.05-3.119,6.84-8.7,6.84C13874.1,60.56,13870.8,58.61,13869.333,55.61Zm35.85.69v3.75h-14.79v-21.3h14.58V42.5h-9.51v4.8h9v3.72h-9V56.3Zm11.1-17.549h8.49c6.389,0,10.528,4.26,10.528,10.529,0,6.39-4.14,10.77-10.589,10.77h-8.43Zm8.22,17.579c3.6,0,5.579-3.24,5.579-7.05,0-3.869-1.86-6.809-5.519-6.809h-3.211V56.33Zm28.679-.03v3.75h-14.789v-21.3h14.579V42.5h-9.509v4.8h9v3.72h-9V56.3Zm11.1-17.549h5.068V55.94h8.641v4.11h-13.709Zm29.789,16.319h-7.859l-1.62,4.98h-5.069l7.739-21.3h5.789l7.74,21.3h-5.1Zm-1.17-3.57-1.95-5.939a25.684,25.684,0,0,1-.78-3h-.06a20.94,20.94,0,0,1-.779,3l-1.95,5.939Zm16.56-2.07c0-6.719,3.96-11.189,10.44-11.189,5.43,0,8.85,3,9.42,7.65l-5.13.9c-.3-2.819-1.86-4.469-4.41-4.469-3.24,0-5.13,2.73-5.13,7.079,0,4.23,1.92,7.05,5.279,7.05,2.37,0,3.96-1.62,4.38-4.38l5.131,1.11c-1.021,4.5-4.32,7.38-9.6,7.38C14013.092,60.56,14009.462,56.15,14009.462,49.43Zm21.72-.03c0-6.869,4.11-11.159,10.5-11.159s10.5,4.29,10.5,11.159-4.108,11.16-10.5,11.16S14031.182,56.24,14031.182,49.4Zm15.78,0c0-4.5-1.95-7.2-5.28-7.2s-5.31,2.7-5.31,7.2c0,4.47,1.979,7.2,5.31,7.2S14046.962,53.9,14046.962,49.4Zm8.311-10.649h5.609l6.84,12.149a22.029,22.029,0,0,1,1.29,2.76h.061c0-.84-.03-1.71-.03-2.73V38.751h4.649v21.3h-5.4l-7.08-12.27a18.286,18.286,0,0,1-1.26-2.609h-.061c0,.87.03,1.769.03,2.819V60.05h-4.649Zm21.51,10.679c0-6.719,3.96-11.189,10.439-11.189,5.43,0,8.85,3,9.419,7.65l-5.13.9c-.3-2.819-1.859-4.469-4.409-4.469-3.239,0-5.13,2.73-5.13,7.079,0,4.23,1.92,7.05,5.28,7.05,2.369,0,3.959-1.62,4.379-4.38l5.13,1.11c-1.02,4.5-4.319,7.38-9.6,7.38C14080.412,60.56,14076.782,56.15,14076.782,49.43Zm37.709,6.87v3.75H14099.7v-21.3h14.579V42.5h-9.509v4.8h9v3.72h-9V56.3Zm11.819-4.41h-3.06v8.16h-5.069v-21.3h9.359c5.4,0,7.8,2.64,7.8,6.54a5.89,5.89,0,0,1-4.17,5.849l4.71,8.91h-5.49Zm-3.06-3.48h3.271c2.46,0,3.539-1.2,3.539-3.119,0-1.86-1.05-2.97-3.539-2.97h-3.271Zm30.567-5.639h-6.21V60.05h-5.04V42.771h-6.18v-4.02h17.43Zm12.42,12.3h-7.86l-1.62,4.98h-5.069l7.739-21.3h5.79l7.74,21.3h-5.1Zm-1.17-3.57-1.95-5.939a25.684,25.684,0,0,1-.78-3h-.06a20.938,20.938,0,0,1-.78,3l-1.95,5.939Zm23.188-8.729h-6.209V60.05h-5.04V42.771h-6.18v-4.02h17.429Zm2.4,17.279v-21.3h5.069v21.3Zm8.16-10.65c0-6.869,4.109-11.159,10.5-11.159s10.5,4.29,10.5,11.159-4.11,11.16-10.5,11.16S14198.818,56.24,14198.818,49.4Zm15.778,0c0-4.5-1.949-7.2-5.278-7.2s-5.311,2.7-5.311,7.2c0,4.47,1.98,7.2,5.311,7.2S14214.6,53.9,14214.6,49.4Zm8.312-10.649h5.609l6.84,12.149a22.31,22.31,0,0,1,1.29,2.76h.06c0-.84-.03-1.71-.03-2.73V38.751h4.65v21.3h-5.4l-7.079-12.27a18.392,18.392,0,0,1-1.26-2.609h-.06c0,.87.029,1.769.029,2.819V60.05h-4.649Zm33.179,6.54a5.39,5.39,0,0,1-3.63,1.169h-.84V42.141h.571a4.536,4.536,0,0,0,4.8-3.39h3.93v21.3h-4.83Z" transform="translate(-13628.75)"/>
+    <text id="TROIS_ATELIERS" data-name="TROIS ATELIERS" class="cls-2" transform="translate(93.048 88.85)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan class="cls-4" y="0">R</tspan><tspan class="cls-3" y="0">OI</tspan><tspan class="cls-5" y="0">S</tspan><tspan class="cls-6" y="0"> </tspan><tspan class="cls-7" y="0">A</tspan><tspan class="cls-3" y="0">TE</tspan><tspan class="cls-4" y="0">L</tspan><tspan class="cls-3" y="0">IE</tspan><tspan class="cls-4" y="0">R</tspan><tspan y="0">S</tspan></text>
+    <path id="Tracé_787" data-name="Tracé 787" class="cls-8" d="M14435.4,408.827s-12,0-12,12v55.205s0,12,12,12h299.149s12,0,12-12V420.827s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Aménager_des_espaces_en_plein_air_" data-name="Aménager des espaces en plein air " class="cls-9" transform="translate(814.33 425.495)"><tspan x="0" y="0">Amén</tspan><tspan class="cls-10" y="0">a</tspan><tspan class="cls-11" y="0">g</tspan><tspan y="0">er des esp</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ces en plein air </tspan></text>
+    <text id="avec_une_multitude_d_usages_" data-name="avec une multitude d’usages " class="cls-9" transform="translate(840.466 445.493)"><tspan class="cls-13" x="0" y="0">a</tspan><tspan class="cls-12" y="0">v</tspan><tspan y="0">ec une multitude d’us</tspan><tspan class="cls-14" y="0">a</tspan><tspan class="cls-11" y="0">g</tspan><tspan y="0">es </tspan></text>
+    <text id="_marché_concert_BBQ_jeux_enfants_" data-name="(marché, concert, BBQ, jeux enfants, " class="cls-9" transform="translate(808.966 465.491)"><tspan class="cls-11" x="0" y="0">(</tspan><tspan y="0">ma</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">ch</tspan><tspan class="cls-15" y="0">é</tspan><tspan y="0">, conce</tspan><tspan class="cls-5" y="0">r</tspan><tspan y="0">t, B</tspan><tspan class="cls-10" y="0">B</tspan><tspan class="cls-7" y="0">Q</tspan><tspan y="0">, jeux en</tspan><tspan class="cls-14" y="0">f</tspan><tspan y="0">a</tspan><tspan class="cls-15" y="0">n</tspan><tspan class="cls-12" y="0">t</tspan><tspan class="cls-16" y="0">s</tspan><tspan y="0">, </tspan></text>
+    <text id="agora_bancs_" data-name="agora, bancs)" class="cls-9" transform="translate(901.611 485.489)"><tspan class="cls-10" x="0" y="0">a</tspan><tspan class="cls-11" y="0">g</tspan><tspan y="0">o</tspan><tspan class="cls-15" y="0">r</tspan><tspan y="0">a, banc</tspan><tspan class="cls-17" y="0">s</tspan><tspan y="0">)</tspan></text>
+    <rect id="Rectangle_518" data-name="Rectangle 518" class="cls-18" width="341.154" height="88.915" transform="translate(785.646 401.827)"/>
+    <path id="Tracé_788" data-name="Tracé 788" class="cls-8" d="M14435.4,312.756s-12,0-12,12v56.315s0,12,12,12h299.149s12,0,12-12V324.756s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Prévoir_des_rez_transparents_" data-name="Prévoir des rez transparents " class="cls-9" transform="translate(842.801 349.978)"><tspan x="0" y="0">P</tspan><tspan class="cls-10" y="0">r</tspan><tspan class="cls-12" y="0">év</tspan><tspan y="0">oir des </tspan><tspan class="cls-14" y="0">r</tspan><tspan class="cls-13" y="0">e</tspan><tspan y="0">z t</tspan><tspan class="cls-15" y="0">r</tspan><tspan y="0">anspa</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">e</tspan><tspan class="cls-15" y="0">n</tspan><tspan class="cls-12" y="0">t</tspan><tspan y="0">s </tspan></text>
+    <text id="avec_cafés_et_commerces" data-name="avec cafés et commerces" class="cls-9" transform="translate(854.033 369.976)"><tspan class="cls-13" x="0" y="0">a</tspan><tspan class="cls-12" y="0">v</tspan><tspan y="0">ec c</tspan><tspan class="cls-10" y="0">a</tspan><tspan class="cls-11" y="0">f</tspan><tspan y="0">és </tspan><tspan class="cls-19" y="0">e</tspan><tspan y="0">t co</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">me</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">ces</tspan></text>
+    <rect id="Rectangle_519" data-name="Rectangle 519" class="cls-18" width="341.154" height="88.315" transform="translate(785.646 305.756)"/>
+    <path id="Tracé_789" data-name="Tracé 789" class="cls-8" d="M14435.4,503.788s-12,0-12,12v55.2s0,12,12,12h299.149s12,0,12-12v-55.2s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Privilégier_des_espaces_de_rencontre_" data-name="Privilégier des espaces de rencontre " class="cls-9" transform="translate(809.547 540.454)"><tspan x="0" y="0">Privilégier des esp</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ces de </tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">enco</tspan><tspan class="cls-16" y="0">n</tspan><tspan y="0">t</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">e </tspan></text>
+    <text id="et_des_locaux_communs" data-name="et des locaux communs" class="cls-9" transform="translate(860.217 560.453)"><tspan class="cls-19" x="0" y="0">e</tspan><tspan y="0">t des locaux co</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">muns</tspan></text>
+    <rect id="Rectangle_520" data-name="Rectangle 520" class="cls-18" width="343.384" height="87.205" transform="translate(785.646 496.787)"/>
+    <path id="Tracé_790" data-name="Tracé 790" class="cls-8" d="M14435.4,597.638s-12,0-12,12v56.315s0,12,12,12h299.149s12,0,12-12V609.638s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Créer_des_espaces_ouverts_et_uides_" data-name="Créer des espaces ouverts et ﬂuides " class="cls-9" transform="translate(808.422 634.861)"><tspan x="0" y="0">C</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">éer des esp</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ces ou</tspan><tspan class="cls-12" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-5" y="0">r</tspan><tspan class="cls-12" y="0">t</tspan><tspan y="0">s </tspan><tspan class="cls-19" y="0">e</tspan><tspan y="0">t ﬂuides </tspan></text>
+    <text id="appropriables_par_tou.te.s" data-name="appropriables par tou.te.s" class="cls-9" transform="translate(852.271 654.859)"><tspan x="0" y="0">app</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">opriables par </tspan><tspan class="cls-10" y="0">t</tspan><tspan y="0">ou</tspan><tspan class="cls-10" y="0">.</tspan><tspan class="cls-20" y="0">t</tspan><tspan class="cls-15" y="0">e</tspan><tspan y="0">.s</tspan></text>
+    <rect id="Rectangle_521" data-name="Rectangle 521" class="cls-18" width="341.154" height="88.315" transform="translate(785.646 590.638)"/>
+    <path id="Tracé_791" data-name="Tracé 791" class="cls-8" d="M14435.4,217.795s-12,0-12,12V286.11s0,12,12,12h299.149s12,0,12-12V229.795s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="_Un_quartier_animé_sur_son_pourtour_" data-name="« Un quartier animé sur son pourtour " class="cls-9" transform="translate(806.064 245.017)"><tspan x="0" y="0">« Un qua</tspan><tspan class="cls-5" y="0">r</tspan><tspan y="0">tier animé sur son pou</tspan><tspan class="cls-5" y="0">r</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">our </tspan></text>
+    <text id="avec_des_espaces_plus_intimes_" data-name="avec des espaces plus intimes " class="cls-9" transform="translate(833.046 265.016)"><tspan class="cls-13" x="0" y="0">a</tspan><tspan class="cls-12" y="0">v</tspan><tspan y="0">ec des esp</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ces plus i</tspan><tspan class="cls-15" y="0">n</tspan><tspan y="0">times </tspan></text>
+    <text id="au_coeur_des_immeubles_" data-name="au coeur des immeubles »" class="cls-9" transform="translate(850.2 285.014)"><tspan x="0" y="0">au coeur des i</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">meubles »</tspan></text>
+    <rect id="Rectangle_522" data-name="Rectangle 522" class="cls-18" width="342.104" height="88.315" transform="translate(785.646 210.795)"/>
+    <text id="ESPACES_PUBLICS" data-name="ESPACES PUBLICS" class="cls-21" transform="translate(875.102 180.174)"><tspan class="cls-22" x="0" y="0">E</tspan><tspan y="0">S</tspan><tspan class="cls-23" y="0">P</tspan><tspan class="cls-24" y="0">A</tspan><tspan y="0">C</tspan><tspan class="cls-22" y="0">E</tspan><tspan y="0">S PUB</tspan><tspan class="cls-25" y="0">L</tspan><tspan y="0">ICS</tspan></text>
+    <path id="Tracé_792" data-name="Tracé 792" class="cls-26" d="M14435.4,143.622s-12,0-12,12V190.6s0,12,12,12h299.149s12,0,12-12V155.622s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_523" data-name="Rectangle 523" class="cls-18" width="344.154" height="69.973" transform="translate(784.146 135.122)"/>
+    <path id="Tracé_793" data-name="Tracé 793" class="cls-8" d="M14435.4,693.544s-12,0-12,12v56.315s0,12,12,12h299.149s12,0,12-12V705.544s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Développer_un_quartier_connecté_au_" data-name="Développer un quartier connecté au " class="cls-9" transform="translate(810.356 730.766)"><tspan class="cls-27" x="0" y="0">D</tspan><tspan class="cls-12" y="0">év</tspan><tspan y="0">elopper un qua</tspan><tspan class="cls-5" y="0">r</tspan><tspan y="0">tier co</tspan><tspan class="cls-19" y="0">n</tspan><tspan y="0">ne</tspan><tspan class="cls-22" y="0">c</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">é au </tspan></text>
+    <text id="plateau_des_Semailles" data-name="plateau des Semailles" class="cls-9" transform="translate(867.183 750.764)"><tspan x="0" y="0">pl</tspan><tspan class="cls-19" y="0">a</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">eau des Semailles</tspan></text>
+    <rect id="Rectangle_524" data-name="Rectangle 524" class="cls-18" width="341.154" height="88.315" transform="translate(785.646 686.544)"/>
+    <path id="Tracé_794" data-name="Tracé 794" class="cls-28" d="M13712.561,502.678s-12,0-12,12v56.315s0,12,12,12h299.15s12,0,12-12V514.678s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Aménager_des_potagers_communs_" data-name="Aménager des potagers communs " class="cls-9" transform="translate(95.667 539.9)"><tspan x="0" y="0">Amén</tspan><tspan class="cls-14" y="0">a</tspan><tspan class="cls-11" y="0">g</tspan><tspan y="0">er des p</tspan><tspan class="cls-19" y="0">o</tspan><tspan class="cls-12" y="0">t</tspan><tspan class="cls-14" y="0">a</tspan><tspan class="cls-11" y="0">g</tspan><tspan y="0">e</tspan><tspan class="cls-29" y="0">r</tspan><tspan y="0">s co</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">muns </tspan></text>
+    <text id="pour_les_habitant.e.s" data-name="pour les habitant.e.s" class="cls-9" transform="translate(150.854 559.898)"><tspan x="0" y="0">pour les habi</tspan><tspan class="cls-13" y="0">t</tspan><tspan y="0">a</tspan><tspan class="cls-16" y="0">n</tspan><tspan y="0">t</tspan><tspan class="cls-10" y="0">.</tspan><tspan class="cls-15" y="0">e</tspan><tspan y="0">.s</tspan></text>
+    <rect id="Rectangle_525" data-name="Rectangle 525" class="cls-18" width="341.15" height="88.315" transform="translate(62.812 495.678)"/>
+    <text id="ENVIRONNEMENT" class="cls-30" transform="translate(153.878 180.174)"><tspan x="0" y="0">ENVI</tspan><tspan class="cls-31" y="0">R</tspan><tspan y="0">ONNEMENT</tspan></text>
+    <path id="Tracé_795" data-name="Tracé 795" class="cls-32" d="M13712.561,143.622s-12,0-12,12v34.972s0,12,12,12h299.15s12,0,12-12V155.622s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_526" data-name="Rectangle 526" class="cls-18" width="344.15" height="69.973" transform="translate(61.312 135.122)"/>
+    <path id="Tracé_796" data-name="Tracé 796" class="cls-28" d="M13712.561,407.717s-12,0-12,12v56.315s0,12,12,12h299.15s12,0,12-12V419.717s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Connecter_les_espaces_verts_" data-name="Connecter les espaces verts " class="cls-9" transform="translate(118.716 444.939)"><tspan class="cls-27" x="0" y="0">C</tspan><tspan y="0">o</tspan><tspan class="cls-22" y="0">n</tspan><tspan y="0">ne</tspan><tspan class="cls-19" y="0">c</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">er les esp</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ces </tspan><tspan class="cls-12" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-5" y="0">r</tspan><tspan class="cls-29" y="0">t</tspan><tspan y="0">s </tspan></text>
+    <text id="avec_le_Voiret" data-name="avec le Voiret" class="cls-9" transform="translate(179.214 464.937)"><tspan class="cls-12" x="0" y="0">av</tspan><tspan y="0">ec le </tspan><tspan class="cls-33" y="0">V</tspan><tspan y="0">oi</tspan><tspan class="cls-10" y="0">r</tspan><tspan class="cls-19" y="0">e</tspan><tspan y="0">t</tspan></text>
+    <rect id="Rectangle_527" data-name="Rectangle 527" class="cls-18" width="341.15" height="88.315" transform="translate(62.812 400.717)"/>
+    <path id="Tracé_797" data-name="Tracé 797" class="cls-28" d="M13712.561,217.795s-12,0-12,12V286.11s0,12,12,12h299.15s12,0,12-12V229.795s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Planter_de_grands_arbres_" data-name="Planter de grands arbres " class="cls-9" transform="translate(133.646 255.017)"><tspan x="0" y="0">Pla</tspan><tspan class="cls-16" y="0">n</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">er de </tspan><tspan class="cls-20" y="0">g</tspan><tspan class="cls-15" y="0">r</tspan><tspan y="0">ands arb</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">es </tspan></text>
+    <text id="et_amener_de_la_biodiversité" data-name="et amener de la biodiversité" class="cls-9" transform="translate(120.956 275.016)"><tspan class="cls-22" x="0" y="0">e</tspan><tspan y="0">t amener de la biodi</tspan><tspan class="cls-13" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-29" y="0">r</tspan><tspan y="0">si</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">é</tspan></text>
+    <rect id="Rectangle_528" data-name="Rectangle 528" class="cls-18" width="341.15" height="88.315" transform="translate(62.812 210.795)"/>
+    <path id="Tracé_798" data-name="Tracé 798" class="cls-28" d="M13712.561,597.638s-12,0-12,12v56.315s0,12,12,12h299.15s12,0,12-12V609.638s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Couloir_de_verdure_" data-name="Couloir de verdure " class="cls-9" transform="translate(158.433 634.861)"><tspan class="cls-27" x="0" y="0">C</tspan><tspan y="0">ouloir de </tspan><tspan class="cls-13" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">du</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">e </tspan></text>
+    <text id="entre_les_immeubles" data-name="entre les immeubles" class="cls-9" transform="translate(151.395 654.859)"><tspan x="0" y="0">e</tspan><tspan class="cls-15" y="0">n</tspan><tspan y="0">t</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">e les i</tspan><tspan class="cls-22" y="0">m</tspan><tspan y="0">meubles</tspan></text>
+    <rect id="Rectangle_529" data-name="Rectangle 529" class="cls-18" width="341.15" height="88.315" transform="translate(62.812 590.638)"/>
+    <path id="Tracé_799" data-name="Tracé 799" class="cls-28" d="M13712.561,693.544s-12,0-12,12v56.315s0,12,12,12h299.15s12,0,12-12V705.544s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Mettre_des_arbres_à_eurs_" data-name="Mettre des arbres à ﬂeurs " class="cls-9" transform="translate(128.427 730.766)"><tspan x="0" y="0">M</tspan><tspan class="cls-22" y="0">e</tspan><tspan class="cls-34" y="0">t</tspan><tspan y="0">t</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">e des arb</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">es à ﬂeu</tspan><tspan class="cls-29" y="0">r</tspan><tspan y="0">s </tspan></text>
+    <text id="pour_les_abeilles" data-name="pour les abeilles" class="cls-9" transform="translate(166.82 750.764)"><tspan x="0" y="0">pour les abeilles</tspan></text>
+    <rect id="Rectangle_530" data-name="Rectangle 530" class="cls-18" width="341.15" height="88.315" transform="translate(62.812 686.544)"/>
+    <path id="Tracé_800" data-name="Tracé 800" class="cls-35" d="M14074.451,407.717s-12,0-12,12v56.315s0,12,12,12H14373.6s12,0,12-12V419.717s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Faciliter_l_accès_à_l_interface_tram" data-name="Faciliter l’accès à l’interface tram" class="cls-9" transform="translate(460.617 454.939)"><tspan class="cls-15" x="0" y="0">F</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">cili</tspan><tspan class="cls-10" y="0">t</tspan><tspan y="0">er l</tspan><tspan class="cls-36" y="0">’</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ccès à l’i</tspan><tspan class="cls-16" y="0">n</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">e</tspan><tspan class="cls-37" y="0">r</tspan><tspan class="cls-10" y="0">f</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ce t</tspan><tspan class="cls-15" y="0">r</tspan><tspan y="0">am</tspan></text>
+    <rect id="Rectangle_531" data-name="Rectangle 531" class="cls-18" width="341.149" height="88.315" transform="translate(424.701 400.717)"/>
+    <path id="Tracé_801" data-name="Tracé 801" class="cls-35" d="M14074.451,312.756s-12,0-12,12v56.315s0,12,12,12H14373.6s12,0,12-12V324.756s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Privilégier_les_piéton.ne.s_" data-name="Privilégier les piéton.ne.s " class="cls-9" transform="translate(494.438 359.978)"><tspan x="0" y="0">Privilégier les pi</tspan><tspan class="cls-19" y="0">é</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">on.n</tspan><tspan class="cls-16" y="0">e</tspan><tspan y="0">.s </tspan></text>
+    <rect id="Rectangle_532" data-name="Rectangle 532" class="cls-18" width="341.149" height="88.315" transform="translate(424.701 305.756)"/>
+    <path id="Tracé_802" data-name="Tracé 802" class="cls-35" d="M14074.451,693.543s-12,0-12,12v56.315s0,12,12,12H14373.6s12,0,12-12V705.543s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Aménager_des_vélostations_couvertes" data-name="Aménager des vélostations couvertes" class="cls-9" transform="translate(443.939 740.766)"><tspan x="0" y="0">Amén</tspan><tspan class="cls-10" y="0">a</tspan><tspan class="cls-17" y="0">g</tspan><tspan y="0">er des </tspan><tspan class="cls-13" y="0">v</tspan><tspan y="0">élo</tspan><tspan class="cls-12" y="0">s</tspan><tspan class="cls-13" y="0">t</tspan><tspan class="cls-22" y="0">a</tspan><tspan y="0">tions cou</tspan><tspan class="cls-13" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-38" y="0">r</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">es</tspan></text>
+    <rect id="Rectangle_533" data-name="Rectangle 533" class="cls-18" width="343.281" height="88.315" transform="translate(424.701 686.543)"/>
+    <path id="Tracé_803" data-name="Tracé 803" class="cls-35" d="M14074.451,502.678s-12,0-12,12v56.315s0,12,12,12H14373.6s12,0,12-12V514.678s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Ne_pas_proposer_de_stationnement_" data-name="Ne pas proposer de stationnement " class="cls-9" transform="translate(454.667 539.9)"><tspan x="0" y="0">Ne pas p</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">oposer de </tspan><tspan class="cls-12" y="0">s</tspan><tspan class="cls-13" y="0">t</tspan><tspan class="cls-22" y="0">a</tspan><tspan y="0">tio</tspan><tspan class="cls-22" y="0">n</tspan><tspan y="0">neme</tspan><tspan class="cls-16" y="0">n</tspan><tspan y="0">t </tspan></text>
+    <text id="en_surface" data-name="en surface" class="cls-9" transform="translate(552.371 559.898)"><tspan x="0" y="0">en su</tspan><tspan class="cls-37" y="0">r</tspan><tspan class="cls-14" y="0">f</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ce</tspan></text>
+    <rect id="Rectangle_534" data-name="Rectangle 534" class="cls-18" width="341.149" height="88.315" transform="translate(424.701 495.678)"/>
+    <path id="Tracé_804" data-name="Tracé 804" class="cls-35" d="M14074.451,217.795s-12,0-12,12V286.11s0,12,12,12H14373.6s12,0,12-12V229.795s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Donner_davantage_de_place_à_une_" data-name="Donner davantage de place à une " class="cls-9" transform="translate(459.626 255.017)"><tspan class="cls-27" x="0" y="0">D</tspan><tspan y="0">o</tspan><tspan class="cls-19" y="0">n</tspan><tspan y="0">ner d</tspan><tspan class="cls-12" y="0">a</tspan><tspan class="cls-14" y="0">v</tspan><tspan y="0">a</tspan><tspan class="cls-16" y="0">n</tspan><tspan class="cls-12" y="0">t</tspan><tspan class="cls-14" y="0">a</tspan><tspan class="cls-11" y="0">g</tspan><tspan y="0">e de pl</tspan><tspan class="cls-12" y="0">a</tspan><tspan y="0">ce à une </tspan></text>
+    <text id="mobilité_douce_sécurisée" data-name="mobilité douce sécurisée" class="cls-9" transform="translate(493.809 275.016)"><tspan x="0" y="0">mobili</tspan><tspan class="cls-10" y="0">t</tspan><tspan y="0">é douce sécurisée</tspan></text>
+    <rect id="Rectangle_535" data-name="Rectangle 535" class="cls-18" width="341.149" height="88.315" transform="translate(424.701 210.795)"/>
+    <text id="DÉPLACEMENTS" class="cls-39" transform="translate(522.238 178.674)"><tspan x="0" y="0">DÉP</tspan><tspan class="cls-40" y="0">L</tspan><tspan class="cls-24" y="0">A</tspan><tspan y="0">CEMEN</tspan><tspan class="cls-17" y="0">T</tspan><tspan y="0">S</tspan></text>
+    <path id="Tracé_805" data-name="Tracé 805" class="cls-41" d="M14074.451,143.622s-12,0-12,12V187.6s0,12,12,12H14373.6s12,0,12-12V155.622s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_536" data-name="Rectangle 536" class="cls-18" width="344.149" height="66.973" transform="translate(423.201 135.122)"/>
+    <path id="Tracé_806" data-name="Tracé 806" class="cls-35" d="M14074.451,597.638s-12,0-12,12v56.315s0,12,12,12H14373.6s12,0,12-12V609.638s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Mutualiser_les_parkings_" data-name="Mutualiser les parkings " class="cls-9" transform="translate(500.36 634.861)"><tspan x="0" y="0">Mutualiser les parkin</tspan><tspan class="cls-16" y="0">g</tspan><tspan y="0">s </tspan></text>
+    <text id="et_réduire_les_places_de_stationnement" data-name="et réduire les places de stationnement" class="cls-9" transform="translate(439.664 654.859)"><tspan class="cls-19" x="0" y="0">e</tspan><tspan y="0">t </tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">édui</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">e les pl</tspan><tspan class="cls-29" y="0">a</tspan><tspan y="0">ces de </tspan><tspan class="cls-12" y="0">st</tspan><tspan class="cls-19" y="0">a</tspan><tspan y="0">tio</tspan><tspan class="cls-19" y="0">n</tspan><tspan y="0">neme</tspan><tspan class="cls-15" y="0">n</tspan><tspan y="0">t</tspan></text>
+    <rect id="Rectangle_537" data-name="Rectangle 537" class="cls-18" width="347.556" height="88.315" transform="translate(424.701 590.638)"/>
+    <rect id="Rectangle_538" data-name="Rectangle 538" class="cls-18" width="1190.551" height="841.89"/>
+    <path id="Tracé_807" data-name="Tracé 807" class="cls-42" d="M14768.443,232.031V749.7h-6V232.031" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_539" data-name="Rectangle 539" class="cls-43" width="17.856" height="24.535" transform="translate(1127.766 217.796)"/>
+    <path id="Tracé_808" data-name="Tracé 808" class="cls-18" d="M14765.443,217.8l-8.928,24.535h17.855Z" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_540" data-name="Rectangle 540" class="cls-44" width="17.856" height="24.535" transform="translate(1127.766 739.402)"/>
+    <path id="Tracé_809" data-name="Tracé 809" class="cls-18" d="M14765.443,763.937l8.928-24.535h-17.855Z" transform="translate(-13628.75)"/>
+    <path id="Tracé_810" data-name="Tracé 810" class="cls-45" d="M14407.5,232.031V749.7h-6V232.031" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_541" data-name="Rectangle 541" class="cls-46" width="17.856" height="24.535" transform="translate(766.82 217.796)"/>
+    <path id="Tracé_811" data-name="Tracé 811" class="cls-18" d="M14404.5,217.8l-8.928,24.535h17.855Z" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_542" data-name="Rectangle 542" class="cls-47" width="17.856" height="24.535" transform="translate(766.82 739.402)"/>
+    <path id="Tracé_812" data-name="Tracé 812" class="cls-18" d="M14404.5,763.937l8.928-24.535h-17.855Z" transform="translate(-13628.75)"/>
+    <path id="Tracé_813" data-name="Tracé 813" class="cls-48" d="M14046.081,232.031V749.7h-6V232.031" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_543" data-name="Rectangle 543" class="cls-49" width="17.857" height="24.535" transform="translate(405.402 217.796)"/>
+    <path id="Tracé_814" data-name="Tracé 814" class="cls-18" d="M14043.081,217.8l-8.929,24.535h17.856Z" transform="translate(-13628.75)"/>
+    <rect id="Rectangle_544" data-name="Rectangle 544" class="cls-50" width="17.857" height="24.535" transform="translate(405.402 739.402)"/>
+    <path id="Tracé_815" data-name="Tracé 815" class="cls-18" d="M14043.081,763.937l8.928-24.535h-17.856Z" transform="translate(-13628.75)"/>
+    <text id="Enjeux_thématiques_classés_par_ordre_de_récurrence_lors_des_discussions" data-name="Enjeux thématiques, classés par ordre de récurrence lors des discussions" class="cls-51" transform="translate(92.626 124.431)"><tspan x="0" y="0">Enjeux thém</tspan><tspan class="cls-19" y="0">a</tspan><tspan y="0">tique</tspan><tspan class="cls-16" y="0">s</tspan><tspan y="0">, cla</tspan><tspan class="cls-10" y="0">s</tspan><tspan y="0">sés par o</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">d</tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">e de </tspan><tspan class="cls-10" y="0">r</tspan><tspan y="0">écur</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">ence lo</tspan><tspan class="cls-29" y="0">r</tspan><tspan y="0">s des discu</tspan><tspan class="cls-14" y="0">s</tspan><tspan y="0">sions</tspan></text>
+    <path id="Tracé_816" data-name="Tracé 816" class="cls-28" d="M13712.561,312.756s-12,0-12,12v56.315s0,12,12,12h299.15s12,0,12-12V324.756s0-12-12-12Z" transform="translate(-13628.75)"/>
+    <text id="Végétaliser_les_toitures" data-name="Végétaliser les toitures" class="cls-9" transform="translate(141.063 359.978)"><tspan class="cls-52" x="0" y="0">V</tspan><tspan y="0">é</tspan><tspan class="cls-17" y="0">g</tspan><tspan class="cls-22" y="0">é</tspan><tspan class="cls-13" y="0">t</tspan><tspan y="0">aliser les </tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">oitu</tspan><tspan class="cls-14" y="0">r</tspan><tspan y="0">es</tspan></text>
+    <rect id="Rectangle_545" data-name="Rectangle 545" class="cls-18" width="341.15" height="88.315" transform="translate(62.812 305.756)"/>
+    <rect id="Rectangle_546" data-name="Rectangle 546" class="cls-18" width="1190.551" height="841.89"/>
+    <rect id="Rectangle_547" data-name="Rectangle 547" class="cls-18" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_548" data-name="Rectangle 548" class="cls-18" width="1190.55" height="841.89"/>
+  </g>
+</svg>

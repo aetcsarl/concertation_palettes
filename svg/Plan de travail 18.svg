@@ -1,0 +1,575 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.55" height="841.89" viewBox="0 0 1190.55 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_18);
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-4, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-53, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #5c782a;
+      }
+
+      .cls-4, .cls-44, .cls-47, .cls-48, .cls-50 {
+        stroke: #5baf31;
+      }
+
+      .cls-4, .cls-44 {
+        stroke-width: 20px;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 12.265 12.265;
+      }
+
+      .cls-5 {
+        fill: #5baf31;
+      }
+
+      .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        stroke-width: 0.333px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-41, .cls-7, .cls-8, .cls-9 {
+        stroke: #cd171a;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-51, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-7, .cls-8, .cls-9 {
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 1.986;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 1.993;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 0 2.126;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 0 2.081;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 0 1.998;
+      }
+
+      .cls-12 {
+        stroke-dasharray: 0 2.034;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 0 2.006;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 0 1.881;
+      }
+
+      .cls-15 {
+        stroke-dasharray: 0 2.097;
+      }
+
+      .cls-16 {
+        stroke-dasharray: 0 1.923;
+      }
+
+      .cls-17 {
+        stroke-dasharray: 0 2.407;
+      }
+
+      .cls-18 {
+        stroke-dasharray: 0 2.044;
+      }
+
+      .cls-19 {
+        stroke-dasharray: 0 2.028;
+      }
+
+      .cls-20 {
+        stroke-dasharray: 0 2.005;
+      }
+
+      .cls-21 {
+        stroke-dasharray: 0 2.004;
+      }
+
+      .cls-22 {
+        stroke-dasharray: 0 1.985;
+      }
+
+      .cls-23 {
+        stroke-dasharray: 0 1.99;
+      }
+
+      .cls-24 {
+        stroke-dasharray: 0 1.991;
+      }
+
+      .cls-26, .cls-43, .cls-51 {
+        stroke: #ffcf1b;
+      }
+
+      .cls-26 {
+        stroke-width: 1.87px;
+      }
+
+      .cls-27 {
+        fill: #ffcf1b;
+      }
+
+      .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-49 {
+        stroke-width: 3px;
+      }
+
+      .cls-28 {
+        stroke-dasharray: 0 5.658;
+      }
+
+      .cls-29 {
+        stroke-dasharray: 0 6.11;
+      }
+
+      .cls-30 {
+        stroke-dasharray: 0 5.993;
+      }
+
+      .cls-31 {
+        stroke-dasharray: 0 6.393;
+      }
+
+      .cls-32 {
+        stroke-dasharray: 0 6.001;
+      }
+
+      .cls-33 {
+        stroke-dasharray: 0 5.929;
+      }
+
+      .cls-34 {
+        stroke-dasharray: 0 5.687;
+      }
+
+      .cls-35 {
+        stroke-dasharray: 0 6.039;
+      }
+
+      .cls-36 {
+        stroke-dasharray: 0 5.984;
+      }
+
+      .cls-37 {
+        stroke-dasharray: 0 5.88;
+      }
+
+      .cls-38 {
+        stroke-dasharray: 0 6.012;
+      }
+
+      .cls-39 {
+        stroke-dasharray: 0 5.996;
+      }
+
+      .cls-41, .cls-42 {
+        stroke-width: 5px;
+      }
+
+      .cls-42 {
+        stroke: #3793d1;
+      }
+
+      .cls-43 {
+        stroke-width: 6px;
+      }
+
+      .cls-45 {
+        fill: #cd171a;
+      }
+
+      .cls-46 {
+        fill: #fff;
+      }
+
+      .cls-48 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-49 {
+        stroke: #5c782a;
+      }
+
+      .cls-50 {
+        stroke-width: 10px;
+        stroke-dasharray: 12.388 12.388;
+      }
+
+      .cls-51 {
+        stroke-width: 15px;
+      }
+
+      .cls-52 {
+        fill: #5ab8b0;
+      }
+
+      .cls-53 {
+        stroke: #588fa5;
+      }
+
+      .cls-54 {
+        fill: #588fa5;
+      }
+
+      .cls-55 {
+        font-size: 24px;
+      }
+
+      .cls-55, .cls-62 {
+        font-family: GTAmerica-Light, GT America;
+      }
+
+      .cls-55, .cls-62, .cls-72 {
+        font-weight: 300;
+      }
+
+      .cls-56 {
+        letter-spacing: -0.007em;
+      }
+
+      .cls-57 {
+        letter-spacing: -0.004em;
+      }
+
+      .cls-58 {
+        letter-spacing: -0.014em;
+      }
+
+      .cls-59 {
+        letter-spacing: -0.002em;
+      }
+
+      .cls-60 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-61 {
+        letter-spacing: -0.019em;
+      }
+
+      .cls-62 {
+        font-size: 13.992px;
+      }
+
+      .cls-63 {
+        letter-spacing: -0.005em;
+      }
+
+      .cls-64 {
+        letter-spacing: -0.006em;
+      }
+
+      .cls-65 {
+        letter-spacing: -0.008em;
+      }
+
+      .cls-66 {
+        letter-spacing: 0.014em;
+      }
+
+      .cls-67 {
+        letter-spacing: 0.008em;
+      }
+
+      .cls-68 {
+        letter-spacing: -0.038em;
+      }
+
+      .cls-69 {
+        letter-spacing: -0.001em;
+      }
+
+      .cls-70 {
+        letter-spacing: 0.022em;
+      }
+
+      .cls-71 {
+        letter-spacing: -0.009em;
+      }
+
+      .cls-72 {
+        font-size: 30px;
+        font-family: GTAmerica-LightItalic, GT America;
+        font-style: italic;
+      }
+
+      .cls-73 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-74 {
+        letter-spacing: -0.012em;
+      }
+
+      .cls-75 {
+        letter-spacing: -0.003em;
+      }
+
+      .cls-76 {
+        letter-spacing: -0.015em;
+      }
+
+      .cls-77 {
+        letter-spacing: -0.016em;
+      }
+
+      .cls-78 {
+        letter-spacing: -0.013em;
+      }
+
+      .cls-79 {
+        letter-spacing: 0.028em;
+      }
+
+      .cls-80 {
+        letter-spacing: -0.017em;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_18">
+      <rect width="1190.55" height="841.89"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_18" data-name="Plan de travail 18" class="cls-1">
+    <rect class="cls-46" width="1190.55" height="841.89"/>
+    <path id="Tracé_183" data-name="Tracé 183" d="M12531.052,1664.944l21.614-58.277-15.591-5.789,19.843-55.131,70.157,25.511-18.779,53.5-10.63-2.74-15.236,42.922Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_155" data-name="Rectangle 155" class="cls-2" width="114.024" height="127.197" transform="translate(416.552 676.857)"/>
+    <path id="Tracé_184" data-name="Tracé 184" d="M12716.9,1664.944l1.282-4.109-5.357-1.758,16.3-56.211,96.378,28.629-9.921,33.449Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-2" width="130.677" height="70.078" transform="translate(598.323 733.976)"/>
+    <path id="Tracé_185" data-name="Tracé 185" d="M12901.327,1664.944h47.906l-45.638-10.2Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-2" width="65.905" height="18.205" transform="translate(786.827 785.849)"/>
+    <path id="Tracé_186" data-name="Tracé 186" class="cls-3" d="M12662.509,1588.382l51.731,15.9-4.535,14.6-19.983-5.527-14.1,51.59H12641.6l5.882-16.555,17.8,3.629,13.521-41.924-20.834-6.52Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_158" data-name="Rectangle 158" class="cls-2" width="90.638" height="84.562" transform="translate(527.103 719.492)"/>
+    <path id="Tracé_187" data-name="Tracé 187" class="cls-3" d="M12528.28,1525.966l2.771,2.064-2.771,7.088,13.756,5.811-10.489,27.963-3.267-.444Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_159" data-name="Rectangle 159" class="cls-2" width="31.755" height="50.925" transform="translate(413.78 657.076)"/>
+    <path id="Tracé_188" data-name="Tracé 188" class="cls-3" d="M12830.106,1664.944h55.63l4.722-27.779-49.935-10.5Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_160" data-name="Rectangle 160" class="cls-2" width="78.351" height="46.281" transform="translate(715.606 757.773)"/>
+    <path id="Tracé_189" data-name="Tracé 189" class="cls-3" d="M12769.162,1568.891l5.314-34.625,245.48,68.6-1.7,8.5Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_161" data-name="Rectangle 161" class="cls-2" width="268.796" height="85.104" transform="translate(654.661 665.376)"/>
+    <path id="Tracé_190" data-name="Tracé 190" class="cls-3" d="M12746.131,1520.257l-13.466,41.789-204.533-75.471-.5-29.41Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_162" data-name="Rectangle 162" class="cls-2" width="236.499" height="112.881" transform="translate(413.132 588.275)"/>
+    <line id="Ligne_112" data-name="Ligne 112" class="cls-4" x1="99.613" y2="289.99" transform="translate(583.461 272.973)"/>
+    <path id="Tracé_191" data-name="Tracé 191" class="cls-5" d="M12794.319,1118.135l-32.672,17.465,47.715,16.39Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_192" data-name="Tracé 192" class="cls-5" d="M12683.215,1441.579l32.672-17.465-47.715-16.39Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_163" data-name="Rectangle 163" class="cls-2" width="159.19" height="331.444" transform="translate(553.673 249.245)"/>
+    <path id="Tracé_193" data-name="Tracé 193" class="cls-3" d="M12925.145,1004.795c3.118,3.118,4.575,5.95,7.088,14.74,1.133,3.968-.852,18.709-5.953,28.063-6.288,11.528-13.323,22.394-10.772,28.063,2.474,5.5,11.622,7.37,14.457,17.008,3.056,10.391.851,17.292-10.488,23.811s-25.546-8.005-50.139-12.756c-24.945-4.819-39.153-10.533-51.909-19.037-14.518-9.679-15.069-19.028-11.388-31.845,3.664-12.755,10.042-22.677,18.192-33.874,4.406-6.055,8.786-14.173,24.378-17.574,19.388-4.231,32.881-1.135,51.022-1.135s22.395,1.418,25.512,4.536" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_164" data-name="Rectangle 164" class="cls-2" width="146.409" height="126.968" transform="translate(689.625 130.277)"/>
+    <path id="Tracé_194" data-name="Tracé 194" d="M13040.657,1242.2l7.512-1.7,31.464,167.669h-7.37Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_165" data-name="Rectangle 165" class="cls-2" width="56.977" height="175.669" transform="translate(926.156 371.606)"/>
+    <path id="Tracé_195" data-name="Tracé 195" d="M13067.444,1236.669l12.188-2.551,32.315,167.527-12.756,2.552Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_166" data-name="Rectangle 166" class="cls-2" width="62.506" height="178.079" transform="translate(952.944 365.228)"/>
+    <path id="Tracé_196" data-name="Tracé 196" d="M13131.791,1397.961l13.605-2.268-31.464-167.527-13.605,2.551Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_167" data-name="Rectangle 167" class="cls-2" width="63.074" height="177.796" transform="translate(985.826 359.275)"/>
+    <path id="Tracé_197" data-name="Tracé 197" class="cls-6" d="M13047.365,999.642c.535,3.52,13.113,86.228,13.113,88.775,0,2.3-.616,24.591-1.777,30.4-.439,2.194-2.219,8.673-4.473,16.876-3.574,13.015-8.024,29.212-9.417,36.694a63.39,63.39,0,0,0,0,25.677c.289,1.671,3.4,18.333,7.71,41.394,12.762,68.323,36.516,195.5,36.938,200.574l.15,1.774a119.257,119.257,0,0,1,.417,21.382c-.822,10.005-4.618,27.13-8.958,36.678-3.5,7.709-20.463,30.219-31.861,38.121-13.592,9.421-28.637,16.177-39.263,17.63-14.108,1.93-29.723,3.266-48.292,0-2.273-.4-7.028-1.211-13.1-2.247-18.8-3.209-50.26-8.58-59.481-10.511-12.063-2.524-24.284-6.206-24.406-6.243l-336.341-105.2" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_198" data-name="Tracé 198" class="cls-6" d="M13046.705,999.743c.131.861,13.105,86.177,13.105,88.674,0,2.876-.668,24.782-1.765,30.265-.434,2.172-2.3,8.965-4.461,16.831-3.578,13.026-8.032,29.239-9.429,36.749a63.963,63.963,0,0,0,0,25.913c.291,1.675,3.4,18.339,7.712,41.4,12.759,68.313,36.51,195.467,36.93,200.507l.15,1.776a118.793,118.793,0,0,1,.417,21.271c-.818,9.948-4.589,26.971-8.9,36.457-3.478,7.653-20.316,30-31.634,37.847-13.511,9.366-28.444,16.079-38.973,17.519-14.055,1.923-29.606,3.254-48.087,0-2.272-.4-7.028-1.212-13.1-2.248-18.793-3.209-50.248-8.578-59.458-10.506-12.035-2.519-24.228-6.192-24.349-6.229l-336.335-105.2" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_199" data-name="Tracé 199" class="cls-6" d="M13058.987,999.642c.107.709,10.781,70.953,11.623,77.964.938,7.809,1.936,27.553,0,37.8-.783,4.14-3.179,12.641-5.951,22.484-4.224,14.99-9.009,31.98-9.352,38.134-.553,9.955,2.651,31.421,3.963,37.9.413,2.043,42.224,219.128,43.093,233.9.69,11.738-.67,30.276-4.554,41.514-4.761,13.782-9.535,23.026-17.62,34.1-6.713,9.2-25.06,25.54-33.847,30.146-8.617,4.517-26.552,11.952-40.644,13.925-14.265,2-22.807,1.125-32.7.116-2.248-.229-4.574-.467-7.065-.681-17.675-1.524-53.285-8.091-65.516-10.494-15.71-3.086-368.675-113.172-372.239-114.284" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_200" data-name="Tracé 200" class="cls-6" d="M13058.327,999.743c.107.708,10.781,70.942,11.621,77.942.933,7.776,1.929,27.421,0,37.6-.778,4.111-3.284,13.008-5.938,22.427-4.231,15.023-9.027,32.05-9.374,38.277-.557,10.015,2.658,31.567,3.975,38.069,2.037,10.063,42.249,219.665,43.081,233.812.686,11.673-.664,30.1-4.519,41.258-4.736,13.713-9.487,22.908-17.528,33.927-6.671,9.141-24.894,25.375-33.618,29.95-8.575,4.494-26.418,11.892-40.427,13.854-14.185,1.986-22.688,1.117-32.534.113-2.251-.23-4.581-.467-7.076-.682-17.646-1.522-53.225-8.083-65.444-10.484-15.675-3.079-368.6-113.155-372.169-114.266" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_201" data-name="Tracé 201" class="cls-6" d="M13060.473,1087.507c.787,4.328,78.688,432.963,81.139,443.463,2.535,10.865,19.355,45.689,27.309,57.791,7.566,11.514,44.909,80.163,48.577,90.068" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_202" data-name="Tracé 202" class="cls-6" d="M13059.817,1087.626c.786,4.329,78.69,432.98,81.145,443.5,2.547,10.914,19.423,45.866,27.4,58.005,8.464,12.88,45.186,80.96,48.509,89.933" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_203" data-name="Tracé 203" class="cls-6" d="M13072.237,1037.578c.778,4.3,77.919,429.692,80.279,436.773.776,2.33,1.215,3.935,1.678,5.634a131.144,131.144,0,0,0,5.19,15.327c2.414,6.217,19.439,37.617,35.9,67.983,15.2,28.033,29.555,54.51,30.927,58.453" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_204" data-name="Tracé 204" class="cls-6" d="M13071.581,1037.7c3.181,17.543,77.927,429.739,80.3,436.865.771,2.312,1.206,3.908,1.666,5.6a131.843,131.843,0,0,0,5.214,15.394c2.43,6.256,19.464,37.675,35.939,68.06,15.186,28.007,29.529,54.461,30.883,58.353" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_205" data-name="Tracé 205" class="cls-6" d="M12984.15,1557.426c6.189.825,151.753,20.268,164.864,25.326,13.753,5.305,32.811,16.418,39.983,23.316" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_206" data-name="Tracé 206" class="cls-6" d="M12984.062,1558.088c1.516.2,151.676,20.257,164.714,25.287,13.687,5.278,32.639,16.324,39.761,23.173" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_207" data-name="Tracé 207" class="cls-6" d="M12984.084,1568.561c6.147.821,150.628,20.173,157.78,23.843,1.678.86,3.827,1.839,6.315,2.971,8.167,3.717,19.354,8.808,27.2,15.785a97.461,97.461,0,0,1,16.5,19.351" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_208" data-name="Tracé 208" class="cls-6" d="M12984,1569.221c1.5.2,150.514,20.159,157.563,23.776,1.692.868,3.849,1.849,6.345,2.985,8.129,3.7,19.262,8.766,27.036,15.676a96.684,96.684,0,0,1,16.378,19.2" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_209" data-name="Tracé 209" d="M12698.563,1205.2l40.63,11.811-58.583,171.023-37.795-12.188Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_168" data-name="Rectangle 168" class="cls-2" width="114.378" height="190.835" transform="translate(528.314 336.314)"/>
+    <path id="Tracé_210" data-name="Tracé 210" d="M12736.642,1099.472l23.243,8.22-4.252,13.323,13.891,4.819-13.039,39.969-27.213-9.355,1.983-6.519-17.008-5.67,11.679-36.283,7.6,1.984Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_169" data-name="Rectangle 169" class="cls-2" width="73.276" height="74.331" transform="translate(599.747 230.582)"/>
+    <path id="Tracé_211" data-name="Tracé 211" d="M12973.051,999.617l-3.118,14.249,7.724,27.992,9.567,13.11-4.252,6.024-6.378,28.7-28.771,6.024-3.473-6.024-22.323-16.3,7.8-12.047,10.631-55.984-8.5-5.67Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_170" data-name="Rectangle 170" class="cls-2" width="83.196" height="104.1" transform="translate(807.527 130.727)"/>
+    <rect id="Rectangle_171" data-name="Rectangle 171" class="cls-2" width="1190.551" height="841.89"/>
+    <line id="Ligne_113" data-name="Ligne 113" class="cls-7" x2="93.268" y2="31.089" transform="translate(712.679 252.951)"/>
+    <line id="Ligne_114" data-name="Ligne 114" class="cls-8" y1="30.896" x2="159.49" transform="translate(808.846 253.079)"/>
+    <line id="Ligne_115" data-name="Ligne 115" class="cls-9" x2="7.143" y2="2.083" transform="translate(971.355 253.485)"/>
+    <line id="Ligne_116" data-name="Ligne 116" class="cls-10" x2="2.976" y2="6.647" transform="translate(980.369 257.765)"/>
+    <line id="Ligne_117" data-name="Ligne 117" class="cls-11" x2="75.162" y2="423.947" transform="translate(984.12 267.329)"/>
+    <line id="Ligne_118" data-name="Ligne 118" class="cls-12" x1="10.479" y2="8.062" transform="translate(1047.365 693.499)"/>
+    <line id="Ligne_119" data-name="Ligne 119" class="cls-13" x1="4.762" y2="5.159" transform="translate(1040.436 703.655)"/>
+    <line id="Ligne_120" data-name="Ligne 120" class="cls-14" x1="5.791" y2="8.575" transform="translate(1032.911 711.11)"/>
+    <line id="Ligne_121" data-name="Ligne 121" class="cls-15" x1="1.191" y1="7.242" transform="translate(1030.854 711.153)"/>
+    <line id="Ligne_122" data-name="Ligne 122" class="cls-16" x1="5.209" y2="6.91" transform="translate(1024.318 711.653)"/>
+    <line id="Ligne_123" data-name="Ligne 123" class="cls-17" x1="0.886" y2="0.814" transform="translate(1021.082 720.96)"/>
+    <line id="Ligne_124" data-name="Ligne 124" class="cls-18" x1="2.551" y2="1.701" transform="translate(1015.944 723.724)"/>
+    <line id="Ligne_125" data-name="Ligne 125" class="cls-19" x1="39.088" y1="6.054" transform="translate(974.002 719.627)"/>
+    <line id="Ligne_126" data-name="Ligne 126" class="cls-20" x1="378.583" y1="108.87" transform="translate(592.49 610.048)"/>
+    <line id="Ligne_127" data-name="Ligne 127" class="cls-21" y1="189.056" x2="63.321" transform="translate(592.163 418.815)"/>
+    <line id="Ligne_128" data-name="Ligne 128" class="cls-22" x2="49.9" y2="16.633" transform="translate(657.686 418.494)"/>
+    <line id="Ligne_129" data-name="Ligne 129" class="cls-23" y1="53.858" x2="17.773" transform="translate(709.15 379.693)"/>
+    <line id="Ligne_130" data-name="Ligne 130" class="cls-24" x1="49.9" y1="17.169" transform="translate(675.453 360.931)"/>
+    <line id="Ligne_131" data-name="Ligne 131" class="cls-21" y1="105.434" x2="35.329" transform="translate(675.147 253.272)"/>
+    <path id="Tracé_212" data-name="Tracé 212" class="cls-25" d="M12816.295,1114.213h0m-36.284,108.283h0m52.725,18.142h0m-18.708,56.693h0m-52.726-17.575h0m-64.274,191.905h0m381.472,109.7h0m42.095,6.52h0m5.1-3.4h0m3.543-3.259h0m6.944-9.213h0m1.7,10.346h0m7.37-10.913h0m6.8-7.37h0m12.9-9.922h0m-75.685-426.9h0m-4.253-9.5h0m-10.2-2.976h0m-162.426,31.464h0" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_213" data-name="Tracé 213" class="cls-26" d="M12875.223,1619.634l-9.76-2.179m10.887-2.87-9.76-2.179m10.887-2.87-9.76-2.179m10.887-2.869-9.76-2.179m10.888-2.87-9.761-2.178m10.888-2.869-9.761-2.18m10.888-2.869-9.761-2.179m10.888-2.87-9.761-2.179m10.888-2.869-9.761-2.179m10.888-2.87-9.76-2.179m10.887-2.87-9.76-2.178m10.887-2.869-9.76-2.179m10.887-2.87-9.76-2.179m10.887-2.869-9.76-2.18m10.887-2.869-9.76-2.179" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_214" data-name="Tracé 214" class="cls-27" d="M12888.578,1536.858l-19.082,13.115,30.775,6.87Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_215" data-name="Tracé 215" class="cls-27" d="M12867.886,1629.552l19.081-13.115-30.774-6.871Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_172" data-name="Rectangle 172" class="cls-2" width="122.186" height="168.504" transform="translate(711.639 634.063)"/>
+    <path id="Tracé_216" data-name="Tracé 216" class="cls-26" d="M12648.65,1559.2l-9.536-3.01m11.065-1.834-9.536-3.012m11.066-1.833-9.536-3.012m11.066-1.834-9.536-3.011m11.065-1.834-9.535-3.01m11.065-1.834-9.536-3.012m11.066-1.833-9.536-3.013m11.066-1.832-9.536-3.012m11.065-1.834-9.536-3.01m11.065-1.834-9.535-3.012m11.065-1.833-9.535-3.011m11.064-1.835-9.535-3.01m11.065-1.834-9.536-3.012m11.066-1.833L12659,1493.2m11.066-1.834-9.536-3.011m11.065-1.834-9.535-3.01m11.065-1.833-9.536-3.012m11.066-1.834-9.536-3.012" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_217" data-name="Tracé 217" class="cls-27" d="M12673.287,1464.575,12653.146,1476l30.069,9.5Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_218" data-name="Tracé 218" class="cls-27" d="M12640.485,1568.449l20.142-11.423-30.069-9.494Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_173" data-name="Rectangle 173" class="cls-2" width="142.759" height="195.351" transform="translate(480.347 553.966)"/>
+    <path id="Tracé_219" data-name="Tracé 219" class="cls-26" d="M13094.361,1647.386l-10,.171m9.91-5.343-10,.171m9.909-5.342-10,.171m9.909-5.344-10,.171m9.91-5.344-10,.173m9.91-5.344-10,.171m9.909-5.344-10,.172m9.91-5.344-10,.171m9.91-5.344-10,.172m9.909-5.342-10,.171m9.908-5.343-10,.17m9.91-5.344-10,.173m9.91-5.344-10,.171m9.91-5.344-10,.173m9.91-5.344-10,.171m9.91-5.344-10,.171m9.91-5.343-10,.172m9.908-5.343-10,.17m9.91-5.342-10,.171m9.91-5.344-10,.171m9.91-5.344-10,.173" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_220" data-name="Tracé 220" class="cls-27" d="M13089.555,1658.749l15.473-17.226-31.527.54Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_174" data-name="Rectangle 174" class="cls-2" width="150.535" height="216.712" transform="translate(907.235 622.542)"/>
+    <path id="Tracé_221" data-name="Tracé 221" class="cls-26" d="M13068.515,1526.831l6.15-7.886m-2.153,11,6.149-7.886m-2.152,11,6.149-7.885m-2.152,11,6.149-7.886m2.852,9.782-3.169-9.485m7.966,7.889-3.144-9.493m7.946,7.909-3.122-9.5m7.926,7.93-3.095-9.509m7.9,7.952-3.067-9.517m7.874,7.979-3.026-9.531m7.838,8.013-2.984-9.545m7.8,8.053-2.929-9.562m7.743,8.1-2.854-9.584m7.654,8.189-2.721-9.623m7.467,8.343-2.427-9.7m6.879,8.787-1.4-9.9m6.113,9.36-.754-9.971m5.38,9.826.122-10m4.911,10.156.187-10m4.976,10.012v-10m5.068,10v-10m5.068,10v-10m5.068,10v-10m5.067,10v-10m5.069,10v-10m5.068,10v-10m5.068,10v-10m5.068,10v-10m5.068,10v-10m5.068,10v-10m5.068,10v-10" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_222" data-name="Tracé 222" class="cls-27" d="M13228.523,1516.661l-16.958-15.766v31.533Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_223" data-name="Tracé 223" class="cls-27" d="M13062.7,1515.953l3.677,22.86,19.392-24.865Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_175" data-name="Rectangle 175" class="cls-2" width="253.328" height="114.07" transform="translate(912.353 603.063)"/>
+    <line id="Ligne_132" data-name="Ligne 132" class="cls-28" x2="34.861" y2="11.723" transform="translate(671.846 441.486)"/>
+    <line id="Ligne_133" data-name="Ligne 133" class="cls-29" x1="27.375" y2="84.26" transform="translate(680.125 459.922)"/>
+    <line id="Ligne_134" data-name="Ligne 134" class="cls-30" x2="185.119" y2="60.532" transform="translate(684.878 548.949)"/>
+    <line id="Ligne_135" data-name="Ligne 135" class="cls-31" y1="27.039" x2="22.482" transform="translate(876.933 578.458)"/>
+    <line id="Ligne_136" data-name="Ligne 136" class="cls-32" x1="37.48" y1="197.518" transform="translate(862.859 372.586)"/>
+    <line id="Ligne_137" data-name="Ligne 137" class="cls-33" x1="93.024" y1="30.272" transform="translate(763.638 337.531)"/>
+    <line id="Ligne_138" data-name="Ligne 138" class="cls-34" y1="35.008" x2="11.861" transform="translate(762.645 296.221)"/>
+    <line id="Ligne_139" data-name="Ligne 139" class="cls-35" x2="117.673" y2="38.485" transform="translate(781.158 295.405)"/>
+    <line id="Ligne_140" data-name="Ligne 140" class="cls-36" x2="45.523" y2="244.14" transform="translate(902.798 340.711)"/>
+    <line id="Ligne_141" data-name="Ligne 141" class="cls-37" x1="53.176" y2="66.637" transform="translate(892.026 592.388)"/>
+    <line id="Ligne_142" data-name="Ligne 142" class="cls-38" x1="260.807" y1="82.462" transform="translate(623.653 577.049)"/>
+    <line id="Ligne_143" data-name="Ligne 143" class="cls-39" y1="127.931" x2="42.839" transform="translate(622.691 442.525)"/>
+    <path id="Tracé_224" data-name="Tracé 224" class="cls-40" d="M12771.982,1301.573h0m-45.7,136.459h0m269.405,85.182h0m58.677-73.531h0m-47.168-252.964h0m-126.284-41.3h0m-14.6,43.087h0m101.479,33.024h0m39.159,206.362h0m-28.614,34.412h0m-193.663-63.326h0m30.207-92.976h0" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-2" width="349.082" height="378.795" transform="translate(610.287 285.028)"/>
+    <path id="Tracé_225" data-name="Tracé 225" class="cls-41" d="M13007.44,1196.8l47.666,253.417-59.244,72.851-269.575-85.04,5.387-16.724" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_177" data-name="Rectangle 177" class="cls-2" width="352.641" height="337.625" transform="translate(608.638 327.452)"/>
+    <path id="Tracé_226" data-name="Tracé 226" class="cls-42" d="M12720.058,1465.992" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" class="cls-2" width="18" height="8" transform="translate(605.559 597.102)"/>
+    <line id="Ligne_144" data-name="Ligne 144" class="cls-43" y1="9.605" x2="64.529" transform="translate(872.584 458.204)"/>
+    <path id="Tracé_227" data-name="Tracé 227" class="cls-27" d="M12970.759,1330.79l13.732,9.42-3.339-22.431Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_228" data-name="Tracé 228" class="cls-27" d="M13049.938,1319l-13.732-9.42,3.339,22.431Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_179" data-name="Rectangle 179" class="cls-2" width="97.18" height="38.626" transform="translate(856.259 440.694)"/>
+    <line id="Ligne_145" data-name="Ligne 145" class="cls-43" y1="61.512" x2="18.658" transform="translate(803.37 584.931)"/>
+    <path id="Tracé_229" data-name="Tracé 229" class="cls-27" d="M12906.721,1515.42l14.392-8.38-21.7-6.583Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_230" data-name="Tracé 230" class="cls-27" d="M12929.678,1439.734l-14.391,8.38,21.7,6.583Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_180" data-name="Rectangle 180" class="cls-2" width="76.276" height="103.455" transform="translate(771.854 562.668)"/>
+    <line id="Ligne_146" data-name="Ligne 146" class="cls-43" y1="63.57" x2="20.804" transform="translate(728.153 561.779)"/>
+    <path id="Tracé_231" data-name="Tracé 231" class="cls-27" d="M12831.35,1494.277l14.57-8.065-21.553-7.053Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_232" data-name="Tracé 232" class="cls-27" d="M12856.762,1416.63l-14.571,8.064,21.554,7.054Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_181" data-name="Rectangle 181" class="cls-2" width="70.387" height="105.279" transform="translate(700.591 539.776)"/>
+    <line id="Ligne_147" data-name="Ligne 147" class="cls-43" y1="10.279" x2="62.623" transform="translate(885.848 525.545)"/>
+    <path id="Tracé_233" data-name="Tracé 233" class="cls-27" d="M12984.04,1398.914l13.872,9.214-3.674-22.379Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_234" data-name="Tracé 234" class="cls-27" d="M13061.279,1386.236l-13.872-9.214,3.673,22.379Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_182" data-name="Rectangle 182" class="cls-2" width="95.24" height="39.106" transform="translate(869.539 508.132)"/>
+    <line id="Ligne_148" data-name="Ligne 148" class="cls-43" x2="73.913" y2="17.81" transform="translate(888.264 570.784)"/>
+    <path id="Tracé_235" data-name="Tracé 235" class="cls-27" d="M12986.564,1430.939l9.2,13.881,5.313-22.048Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_236" data-name="Tracé 236" class="cls-27" d="M13074.877,1452.219l-9.2-13.881-5.312,22.048Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_183" data-name="Rectangle 183" class="cls-2" width="114.909" height="75.238" transform="translate(868.842 539.269)"/>
+    <line id="Ligne_149" data-name="Ligne 149" class="cls-43" x2="21.338" y2="71.348" transform="translate(872.624 597.589)"/>
+    <path id="Tracé_237" data-name="Tracé 237" class="cls-27" d="M12976,1452.384l-7.369,14.934,21.728-6.5Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_238" data-name="Tracé 238" class="cls-27" d="M13001.584,1537.923l7.369-14.934-21.728,6.5Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_184" data-name="Rectangle 184" class="cls-2" width="54.579" height="110.825" transform="translate(858.975 577.433)"/>
+    <path id="Tracé_239" data-name="Tracé 239" class="cls-3" d="M12866.751,1215.653c-18.815,2.842-12.962,51.252-18.142,67.977-5.117,16.521-10.767,25.8-18.708,40.7-7.8,14.631-17.579,32.207-17.579,50.631,0,22.019,13.641,40.134,35.72,44.5,21.492,4.253,45.621,2.593,65.764,11.339,13.906,6.037,59.712,26.946,69.35,2.725,7.326-18.414-10.313-33.908-13.224-50.23-1.793-10.059,2.8-32.026,0-42.071-3.779-13.562-12.354-30.15-17.008-43.228-10.085-28.338,15.283-51.055-21.933-69.834-15.072-7.606-27.622-10.528-48.083-13.93Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_185" data-name="Rectangle 185" class="cls-2" width="190.6" height="238.713" transform="translate(697.822 345.345)"/>
+    <path id="Tracé_240" data-name="Tracé 240" class="cls-44" d="M13042.846,1113.852l-127.06,24.611-281.911-99.919" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_241" data-name="Tracé 241" class="cls-5" d="M13060.209,1110.489l-31.434-19.606,9.594,49.53Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_242" data-name="Tracé 242" class="cls-5" d="M12617.2,1032.635l17.146,32.84,16.854-47.552Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_186" data-name="Rectangle 186" class="cls-2" width="461.005" height="138.874" transform="translate(502.704 149.034)"/>
+    <path id="Tracé_243" data-name="Tracé 243" class="cls-45" d="M12994.708,1272.21s-11.78,2.289-9.49,14.068l3.61,18.571s2.29,11.779,14.069,9.49l9.437-1.834s11.779-2.291,9.489-14.07l-3.609-18.571s-2.29-11.779-14.069-9.488Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_187" data-name="Rectangle 187" class="cls-2" width="60.381" height="59.831" transform="translate(867.258 397.606)"/>
+    <path id="Tracé_244" data-name="Tracé 244" class="cls-45" d="M13007.349,1338.257s-11.779,2.289-9.489,14.068l3.609,18.571s2.29,11.779,14.069,9.49l9.437-1.834s11.779-2.291,9.489-14.07l-3.608-18.571s-2.29-11.779-14.069-9.488Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_188" data-name="Rectangle 188" class="cls-2" width="60.381" height="59.83" transform="translate(879.898 463.653)"/>
+    <path id="Tracé_245" data-name="Tracé 245" class="cls-45" d="M12928.934,1483.269s-3.709,11.413,7.7,15.121l17.992,5.846s11.414,3.708,15.123-7.7l2.971-9.142s3.707-11.413-7.707-15.121l-17.991-5.846s-11.412-3.708-15.119,7.7Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_189" data-name="Rectangle 189" class="cls-2" width="64.375" height="64.822" transform="translate(810.287 590.101)"/>
+    <path id="Tracé_246" data-name="Tracé 246" class="cls-45" d="M12859.969,1461.727s-3.709,11.413,7.7,15.121l17.992,5.846s11.414,3.708,15.123-7.7l2.971-9.142s3.707-11.413-7.707-15.121l-17.992-5.846s-11.411-3.708-15.118,7.7Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_190" data-name="Rectangle 190" class="cls-2" width="64.375" height="64.821" transform="translate(741.322 568.559)"/>
+    <path id="Tracé_247" data-name="Tracé 247" class="cls-45" d="M13019.038,1406.516s-10.8,2.1-8.7,12.9l.744,3.831s2.1,10.8,12.9,8.7l11.4-2.215s10.8-2.1,8.7-12.9l-.744-3.831s-2.1-10.8-12.9-8.7Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_191" data-name="Rectangle 191" class="cls-2" width="57.133" height="43.126" transform="translate(892.569 531.723)"/>
+    <path id="Tracé_248" data-name="Tracé 248" class="cls-45" d="M13019.584,1448.4s-9.456-7.388-16.844,2.068l-9.066,11.6s-7.388,9.456,2.068,16.844l7.575,5.918s9.457,7.388,16.845-2.068l9.066-11.6s7.388-9.456-2.069-16.845Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_192" data-name="Rectangle 192" class="cls-2" width="69.44" height="68.597" transform="translate(873.078 568.069)"/>
+    <path id="Tracé_249" data-name="Tracé 249" class="cls-46" d="M12700.371,1031.728s-12,0-12,12v39.488s0,12,12,12h24.337s12,0,12-12v-39.488s0-12-12-12Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_250" data-name="Tracé 250" class="cls-47" d="M12700.371,1031.728s-12,0-12,12v39.488s0,12,12,12h24.337s12,0,12-12v-39.488s0-12-12-12Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_251" data-name="Tracé 251" class="cls-5" d="M12718.327,1034.165h-.264a2.734,2.734,0,1,0,0,5.468h.528a2.734,2.734,0,0,0,0-5.468Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_252" data-name="Tracé 252" class="cls-5" d="M12705.622,1045.411h-.2a2.023,2.023,0,0,0,0,4.045h.393a2.023,2.023,0,0,0,0-4.045Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_253" data-name="Tracé 253" class="cls-5" d="M12719.132,1062.425v-7.179h-1.55v7.179l-.019.212-.095.19-.095.19-.157.143-.157.143-.2.076-.2.077h-.424l-.2-.077-.2-.076-.157-.143-.155-.143-.1-.19-.094-.19-.019-.212v-7.179a3.38,3.38,0,0,1-1.584-.277q-.668-3.038.479-10.96a20.211,20.211,0,0,0-2.86,8.033l-.054.149-.1.122-.1.119-.14.073-.139.074-.158.017-.157.019-.153-.041-.152-.041-.127-.093-.127-.095-.085-.134-.085-.132-.03-.156-.03-.156.029-.155q1.879-10.727,8-11.125c.126-.006.253-.012.381-.012l.986-.013,0,.036q6,.51,7.858,11.114l.029.155-.03.156-.029.156-.085.132-.084.134-.129.095-.127.093-.152.041-.153.041-.156-.019-.157-.017-.141-.074-.139-.073-.1-.119-.1-.122-.053-.149a20.241,20.241,0,0,0-2.86-8.033q1.146,7.923.48,10.96a3.392,3.392,0,0,1-1.586.277v7.179l-.019.212-.094.19-.1.19-.156.143-.157.143-.2.076-.2.077h-.424l-.2-.077-.2-.076-.157-.143-.156-.143-.095-.19-.095-.19Zm-1.01-21.944.986-.019-.986.013Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_193" data-name="Rectangle 193" class="cls-2" width="1190.551" height="841.89"/>
+    <path id="Tracé_254" data-name="Tracé 254" class="cls-5" d="M12707.966,1063.195v-10.728l1.563.822.135.032.139-.009.139-.006.131-.046.132-.045.113-.078.115-.08.087-.106.089-.108.056-.128.056-.127.018-.137.02-.138-.021-.136-.02-.139-.057-.125-.056-.128-.089-.106-.09-.106-.114-.08-.115-.078-.131-.043-.132-.043-.138-.007-2.026-1.066h-4.479l-2.8,5.94-.057.181.012.188.013.189.081.17.081.171.14.13.138.13.176.069.177.069.189,0h.189l.175-.069.177-.071.137-.13.138-.13.079-.171.955-1.717v7.992l.091.119.115.1.115.1.135.067.135.067.146.034.147.035h.3l.147-.035.146-.034.135-.067.134-.067.116-.1.115-.1.09-.119v-5.619h.448v5.619l.091.13.12.106.12.106.141.073.141.076.156.037.154.039h.32l.154-.039.156-.037.141-.076.143-.073.119-.106.12-.106Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_194" data-name="Rectangle 194" class="cls-5" width="36.679" height="2.126" transform="translate(588.7 203.483)"/>
+    <path id="Tracé_255" data-name="Tracé 255" class="cls-48" d="M12719.274,1071.838l-2.611-1.52c-.259-.153-.3-.385-.114-.7h3.619q.391-.394,1.774-.017.831,1.354-.677,1.736Zm4.842,12.226h-7.538m2.154-10.317,5.384,10.317m-10.23-.543,5.384-11.946m-13.46,2.172,8.076,9.774m-8.076-9.774h12.923m-15.614-3.8h3.769l-5.384,14.117m18.719-6.005h0a6.684,6.684,0,0,0-2.95,8.339,6.586,6.586,0,0,0,7.869,3.921,6.662,6.662,0,0,0-2-13.07m-19.221.428h0a6.571,6.571,0,0,0-7.969,2.746,6.7,6.7,0,0,0,1.194,8.407,6.557,6.557,0,0,0,8.412.382,6.693,6.693,0,0,0,1.938-8.265m0,0-.177-.36-.22-.336-.218-.336-.256-.307" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_256" data-name="Tracé 256" class="cls-46" d="M12727.3,1249.074s-12,0-12,12v39.488s0,12,12,12h24.337s12,0,12-12v-39.488s0-12-12-12Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_257" data-name="Tracé 257" class="cls-47" d="M12727.3,1249.074s-12,0-12,12v39.488s0,12,12,12h24.337s12,0,12-12v-39.488s0-12-12-12Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_258" data-name="Tracé 258" class="cls-5" d="M12745.257,1251.512h-.264a2.734,2.734,0,1,0,0,5.468h.529a2.734,2.734,0,0,0,0-5.468Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_259" data-name="Tracé 259" class="cls-5" d="M12732.551,1262.757h-.2a2.023,2.023,0,0,0,0,4.045h.392a2.023,2.023,0,0,0,0-4.045Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_260" data-name="Tracé 260" class="cls-5" d="M12746.061,1279.772v-7.179h-1.55v7.179l-.019.212-.094.19-.1.19-.156.143-.157.143-.2.075-.2.078h-.424l-.2-.078-.2-.075-.157-.143-.156-.143-.1-.19-.095-.19-.019-.212v-7.179a3.38,3.38,0,0,1-1.584-.277q-.668-3.038.48-10.96a20.211,20.211,0,0,0-2.861,8.033l-.053.149-.1.122-.1.119-.141.073-.139.074-.158.017-.157.019-.152-.041-.153-.041-.127-.093-.127-.095-.085-.134-.085-.132-.03-.156-.03-.156.029-.155q1.879-10.727,8-11.125c.126-.006.253-.013.381-.013l.986-.012,0,.036q6,.51,7.859,11.114l.028.155-.029.156-.03.156-.085.132-.084.134-.128.095-.127.093-.153.041-.153.041-.155-.019-.158-.017-.141-.074-.139-.073-.1-.119-.1-.122-.053-.149a20.242,20.242,0,0,0-2.86-8.033q1.147,7.923.481,10.96a3.4,3.4,0,0,1-1.586.277v7.179l-.02.212-.094.19-.095.19-.157.143-.157.143-.2.075-.2.078h-.425l-.2-.078-.2-.075-.157-.143-.156-.143-.095-.19-.095-.19Zm-1.01-21.944.986-.019-.986.012Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_195" data-name="Rectangle 195" class="cls-2" width="1190.551" height="841.89"/>
+    <path id="Tracé_261" data-name="Tracé 261" class="cls-5" d="M12734.895,1280.541v-10.728l1.564.821.135.033.138-.009.14-.006.131-.046.132-.045.113-.078.114-.08.088-.106.089-.108.055-.128.056-.127.019-.137.019-.138-.02-.136-.021-.139-.056-.125-.056-.128-.09-.106-.09-.106-.114-.08-.114-.078-.131-.043-.133-.043-.138-.007-2.025-1.066h-4.479l-2.8,5.94-.058.181.013.188.013.189.081.17.081.171.139.13.138.13.177.069.177.069.189,0h.188l.175-.069.178-.071.137-.13.137-.13.08-.171.955-1.717v7.992l.09.119.116.1.115.095.135.068.134.067.146.034.146.035h.3l.148-.035.145-.034.136-.067.134-.068.116-.095.114-.1.09-.119v-5.619h.448v5.619l.091.13.12.106.12.106.142.073.141.076.156.037.153.039h.32l.155-.039.155-.037.142-.076.142-.073.119-.106.12-.106Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_196" data-name="Rectangle 196" class="cls-5" width="36.679" height="2.126" transform="translate(615.63 420.829)"/>
+    <path id="Tracé_262" data-name="Tracé 262" class="cls-48" d="M12746.2,1289.185l-2.611-1.52c-.259-.153-.3-.385-.114-.7h3.619q.393-.395,1.774-.018.831,1.356-.676,1.737Zm4.842,12.226h-7.538m2.154-10.317,5.384,10.317m-10.229-.543,5.384-11.946m-13.46,2.172,8.076,9.774m-8.076-9.774h12.922m-15.614-3.8h3.77l-5.385,14.117m18.72-6.005h0a6.684,6.684,0,0,0-2.951,8.339,6.587,6.587,0,0,0,7.87,3.921,6.662,6.662,0,0,0-2-13.07m-19.222.428h0a6.571,6.571,0,0,0-7.969,2.746,6.7,6.7,0,0,0,1.194,8.407,6.558,6.558,0,0,0,8.413.382,6.692,6.692,0,0,0,1.937-8.265m0,0-.177-.36-.219-.336-.218-.336-.257-.307" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_263" data-name="Tracé 263" class="cls-3" d="M12836.839,1136.141c-7.215,2.166-12.188.568-20.126,5.953-3.04,2.065-6.476,7.195-8.22,10.467-3.26,6.117-4.868,8.853-7.937,22.84-3.256,14.834-2.511,19.842-2.552,19.277.454,6.264,1.2,12.037,3.4,16.44,3.4,6.8,6.171,9.871,10.916,12.472,8.788,4.819,17.047,4.565,22.958,3.819,8.929-1.125,10.06-1.266,14.314-4.1,4.678-3.117,6.684-5.549,8.079-8.361a24.522,24.522,0,0,0,2.126-10.914c-.024-3.1.22-12.377,1.133-15.307,3.745-12.014,4.265-11.51,9.923-22.922,2.267-4.574,3.329-13.242,3.26-17.33-.06-3.428-5.782-13.891-15.733-15.514-10.218-1.668-14.456,1.057-21.543,3.182" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_197" data-name="Rectangle 197" class="cls-2" width="94.159" height="103.383" transform="translate(683.459 263.552)"/>
+    <path id="Tracé_264" data-name="Tracé 264" class="cls-49" d="M12915.359,1159.528c47.807,15.936,73.172,24.72,87.563,27.958,11.338,2.551,11.777-15.359,8.22-32.6-3.685-17.859-3.375-21.155-13.578-20.021s-78.8,14.173-83.056,15.023C12909.5,1150.893,12907.705,1156.977,12915.359,1159.528Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_198" data-name="Rectangle 198" class="cls-2" width="123.937" height="64.063" transform="translate(794.178 264.277)"/>
+    <line id="Ligne_150" data-name="Ligne 150" class="cls-49" x2="9.921" y2="11.338" transform="translate(809.008 288.851)"/>
+    <rect id="Rectangle_199" data-name="Rectangle 199" class="cls-2" width="30.179" height="21.314" transform="translate(798.88 280.863)"/>
+    <line id="Ligne_151" data-name="Ligne 151" class="cls-49" x2="18.997" y2="21.66" transform="translate(820.059 285.9)"/>
+    <rect id="Rectangle_200" data-name="Rectangle 200" class="cls-2" width="39.253" height="31.637" transform="translate(809.931 277.911)"/>
+    <line id="Ligne_152" data-name="Ligne 152" class="cls-49" x2="28.205" y2="31.891" transform="translate(831.261 283.181)"/>
+    <rect id="Rectangle_201" data-name="Rectangle 201" class="cls-2" width="48.452" height="41.879" transform="translate(821.137 275.187)"/>
+    <line id="Ligne_153" data-name="Ligne 153" class="cls-49" x2="33.449" y2="38.125" transform="translate(845.434 282.048)"/>
+    <rect id="Rectangle_202" data-name="Rectangle 202" class="cls-2" width="53.704" height="48.103" transform="translate(835.306 274.058)"/>
+    <line id="Ligne_154" data-name="Ligne 154" class="cls-49" x2="40.16" y2="45.215" transform="translate(856.996 279.779)"/>
+    <rect id="Rectangle_203" data-name="Rectangle 203" class="cls-2" width="60.404" height="55.207" transform="translate(846.875 271.783)"/>
+    <line id="Ligne_155" data-name="Ligne 155" class="cls-49" x2="37.134" y2="42.166" transform="translate(868.819 277.017)"/>
+    <rect id="Rectangle_204" data-name="Rectangle 204" class="cls-2" width="57.385" height="52.15" transform="translate(858.693 269.025)"/>
+    <line id="Ligne_156" data-name="Ligne 156" class="cls-49" x2="25.472" y2="29.187" transform="translate(881.9 275.386)"/>
+    <rect id="Rectangle_205" data-name="Rectangle 205" class="cls-2" width="45.732" height="39.16" transform="translate(871.771 267.4)"/>
+    <line id="Ligne_157" data-name="Ligne 157" class="cls-44" y1="21.971" x2="93.688" transform="translate(1064.904 207.363)"/>
+    <path id="Tracé_265" data-name="Tracé 265" class="cls-5" d="M13153.186,1095.262l32.175,18.365-11.519-49.119Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_266" data-name="Tracé 266" class="cls-5" d="M13281.312,1065.216l-32.175-18.365,11.519,49.119Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_206" data-name="Rectangle 206" class="cls-2" width="146.13" height="74.776" transform="translate(1038.681 177.961)"/>
+    <line id="Ligne_158" data-name="Ligne 158" class="cls-50" y1="9.563" x2="61.199" transform="translate(968.33 236.042)"/>
+    <path id="Tracé_267" data-name="Tracé 267" class="cls-5" d="M13063.61,1109.092l19.188,12.959-4.868-31.154Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_268" data-name="Tracé 268" class="cls-5" d="M13145.248,1096.336l-19.187-12.959,4.867,31.154Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_207" data-name="Rectangle 207" class="cls-2" width="99.64" height="46.674" transform="translate(949.11 214.487)"/>
+    <path id="Tracé_269" data-name="Tracé 269" class="cls-51" d="M12724.4,1457.637s253.188,85.535,277.983,82.584c23.812-2.836,49.891-33.449,59.339-51.4,9.5-18.057,8.549-38.219,6.426-51.5-2.269-14.174-45.922-238.11-45.922-238.11" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_208" data-name="Rectangle 208" class="cls-2" width="378.154" height="364.082" transform="translate(602.398 322.824)"/>
+    <path id="Tracé_270" data-name="Tracé 270" class="cls-52" d="M12779.977,1222.741l52.838,17.971-18.652,57.006-52.866-18.284Z" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_209" data-name="Rectangle 209" class="cls-2" width="89.518" height="82.977" transform="translate(646.796 353.851)"/>
+    <path id="Tracé_271" data-name="Tracé 271" class="cls-53" d="M12798.594,1239.936l.946,26.856m-16.26,13.038,11.547-37.9q3.438-3.259,7.939-.4l8.887,39.125" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_210" data-name="Rectangle 210" class="cls-2" width="1190.551" height="841.89"/>
+    <path id="Tracé_272" data-name="Tracé 272" class="cls-54" d="M12795.5,1274.118l6.571.229-.055,1.552-5.939.566Z" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_273" data-name="Tracé 273" class="cls-54" d="M12802.886,1261.049h0a2.124,2.124,0,1,0,2,2.2,2.1,2.1,0,0,0-2-2.2" transform="translate(-12105.5 -861.89)"/>
+    <path id="Tracé_274" data-name="Tracé 274" class="cls-54" d="M12803.777,1266.805a1.648,1.648,0,0,0-1.708-1.1,2.133,2.133,0,0,0-1.332,1.487v.047a3.349,3.349,0,0,1-3.761-.759l-.146-.087-.165-.025-.166-.028-.164.039-.164.038-.14.1-.141.095-.1.141-.1.141-.042.168-.041.169.02.17.021.173.079.154.08.15.127.115-.119-.13a5.5,5.5,0,0,0,3.442,1.524,4.673,4.673,0,0,0,.793-.043c0,.009-.009.015-.012.024a12.8,12.8,0,0,1-.887,2.035q-4.43-.789-8.126,3.192l-.061.179-.009.186-.009.186.043.183.044.183.092.162.092.161.134.13.134.127.164.085.163.085.18.035.18.034.185-.019.182-.019.17-.071,1.019-.968.388-.354.595-.37.846-.408.565-.217.523-.164.677-.086h.906l1.027.1a4.714,4.714,0,0,0,1.98.065,3.7,3.7,0,0,0,1.4-1.849q1.737-3.376,1.133-5.165" transform="translate(-12105.5 -861.89)"/>
+    <rect id="Rectangle_211" data-name="Rectangle 211" class="cls-2" width="1190.551" height="841.89"/>
+    <text id="_" data-name="•" class="cls-55" transform="translate(36 288)"><tspan x="0" y="0">•</tspan></text>
+    <text id="_2" data-name=" " class="cls-55" transform="translate(43.248 288)"><tspan x="0" y="0"> </tspan></text>
+    <text id="Créer_un_espace_végétalisé_au_" data-name="Créer un espace végétalisé au " class="cls-55" transform="translate(54 288)"><tspan x="0" y="0">C</tspan><tspan class="cls-56" y="0">r</tspan><tspan y="0">éer un esp</tspan><tspan class="cls-57" y="0">a</tspan><tspan y="0">ce </tspan><tspan class="cls-57" y="0">v</tspan><tspan y="0">é</tspan><tspan class="cls-58" y="0">g</tspan><tspan class="cls-59" y="0">é</tspan><tspan class="cls-57" y="0">t</tspan><tspan y="0">alisé au </tspan></text>
+    <text id="coeur_de_l_implantation_de_plus_" data-name="coeur de l’implantation de plus " class="cls-55" transform="translate(54 312)"><tspan x="0" y="0">coeur de l’i</tspan><tspan class="cls-59" y="0">m</tspan><tspan y="0">pla</tspan><tspan class="cls-60" y="0">n</tspan><tspan class="cls-57" y="0">t</tspan><tspan class="cls-59" y="0">a</tspan><tspan y="0">tion de plus </tspan></text>
+    <text id="de_2800m" data-name="de 2800m" class="cls-55" transform="translate(54 336)"><tspan x="0" y="0">de </tspan><tspan class="cls-61" y="0">2</tspan><tspan y="0">800m</tspan></text>
+    <text id="_2-2" data-name="2" class="cls-62" transform="translate(164.231 328.008)"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3" data-name=" " class="cls-55" transform="translate(171.815 336)"><tspan x="0" y="0"> </tspan></text>
+    <text id="_4" data-name="•" class="cls-55" transform="translate(35.999 384)"><tspan x="0" y="0">•</tspan></text>
+    <text id="_5" data-name=" " class="cls-55" transform="translate(43.247 384)"><tspan x="0" y="0"> </tspan></text>
+    <text id="Créer_une_nouvelle_perméabilité_" data-name="Créer une nouvelle perméabilité " class="cls-55" transform="translate(53.999 384)"><tspan x="0" y="0">C</tspan><tspan class="cls-56" y="0">r</tspan><tspan y="0">éer une nou</tspan><tspan class="cls-63" y="0">v</tspan><tspan y="0">elle perméabili</tspan><tspan class="cls-64" y="0">t</tspan><tspan y="0">é </tspan></text>
+    <text id="mobilité_douce_pour_connecter_" data-name="mobilité douce pour connecter " class="cls-55" transform="translate(53.999 408)"><tspan x="0" y="0">mobili</tspan><tspan class="cls-64" y="0">t</tspan><tspan y="0">é douce pour co</tspan><tspan class="cls-59" y="0">n</tspan><tspan y="0">ne</tspan><tspan class="cls-59" y="0">c</tspan><tspan class="cls-64" y="0">t</tspan><tspan y="0">er </tspan></text>
+    <text id="le_chemin_des_Palettes" data-name="le chemin des Palettes" class="cls-55" transform="translate(53.999 432)"><tspan x="0" y="0">le chemin des </tspan><tspan class="cls-65" y="0">P</tspan><tspan y="0">al</tspan><tspan class="cls-59" y="0">e</tspan><tspan class="cls-66" y="0">t</tspan><tspan class="cls-64" y="0">t</tspan><tspan y="0">es</tspan></text>
+    <text id="_6" data-name="•" class="cls-55" transform="translate(35.999 480)"><tspan x="0" y="0">•</tspan></text>
+    <text id="_7" data-name=" " class="cls-55" transform="translate(43.247 480)"><tspan x="0" y="0"> </tspan></text>
+    <text id="Des_rez-de-chaussée_actifs_le_" data-name="Des rez-de-chaussée actifs le " class="cls-55" transform="translate(53.999 480)"><tspan class="cls-67" x="0" y="0">D</tspan><tspan y="0">es </tspan><tspan class="cls-56" y="0">r</tspan><tspan class="cls-63" y="0">e</tspan><tspan class="cls-68" y="0">z</tspan><tspan y="0">-d</tspan><tspan class="cls-65" y="0">e</tspan><tspan y="0">-chau</tspan><tspan class="cls-65" y="0">s</tspan><tspan y="0">sée </tspan><tspan class="cls-57" y="0">a</tspan><tspan class="cls-69" y="0">c</tspan><tspan y="0">ti</tspan><tspan class="cls-56" y="0">f</tspan><tspan y="0">s le </tspan></text>
+    <text id="long_de_l_interface_tram_" data-name="long de l’interface tram  " class="cls-55" transform="translate(53.999 504)"><tspan x="0" y="0">long de l’i</tspan><tspan class="cls-60" y="0">n</tspan><tspan class="cls-64" y="0">t</tspan><tspan y="0">e</tspan><tspan class="cls-70" y="0">r</tspan><tspan class="cls-56" y="0">f</tspan><tspan class="cls-57" y="0">a</tspan><tspan y="0">ce t</tspan><tspan class="cls-71" y="0">r</tspan><tspan y="0" xml:space="preserve">am  </tspan></text>
+    <path id="Tracé_275" data-name="Tracé 275" d="M12198.786,915.43l4.89-.48c.03,2.34,1.32,3.72,3.36,3.72a2.715,2.715,0,0,0,3-3.03c0-1.92-1.14-2.91-3.6-2.91h-1.109v-3.3h1.08c2.1,0,3.18-1.08,3.18-2.909a2.5,2.5,0,0,0-2.76-2.73c-1.95,0-3.061,1.41-3.061,3.78l-4.77-.63c0-4.17,3.12-6.81,8.07-6.81,4.8,0,7.5,2.16,7.5,5.82a5.014,5.014,0,0,1-4.17,4.889c3.09.48,4.739,2.22,4.739,5.13,0,3.96-3.18,6.42-8.13,6.42C12202,922.39,12198.846,919.69,12198.786,915.43Zm23.97,6.51h-5.129v-4.92h5.129Zm3.271-3.54a45,45,0,0,0,7.528-5.49c2.04-2.01,2.851-3.6,2.851-5.729,0-2.1-.96-3.24-2.7-3.24-1.77,0-2.819,1.2-2.819,3.18a10.094,10.094,0,0,0,.21,1.709l-4.92-.45a8.128,8.128,0,0,1-.18-1.649c0-4.02,3.06-6.6,7.949-6.6,4.8,0,7.62,2.43,7.62,6.69,0,2.879-1.23,5.309-3.75,7.649a28.961,28.961,0,0,1-5.19,3.63h9.12v3.84h-15.719Zm31.079-17.759V914.29a3.961,3.961,0,1,0,7.92,0V900.641h5.069V914.5c0,4.86-3.359,7.95-9.029,7.95s-9.029-3.09-9.029-7.95V900.641Zm17.07,0h5.609l6.84,12.149a22.033,22.033,0,0,1,1.29,2.76h.06c0-.84-.029-1.71-.029-2.73V900.641h4.649v21.3h-5.4l-7.08-12.27a18.284,18.284,0,0,1-1.26-2.609h-.061c0,.87.03,1.769.03,2.819v12.06h-4.649Zm47.369,6.69c0,4.229-2.97,6.869-7.77,6.869h-4.261v7.74h-5.069v-21.3h9.45C12318.516,900.641,12321.546,903.281,12321.546,907.331Zm-5.31.15c0-2.01-1.29-3.18-3.57-3.18h-3.15v6.359h3.15C12314.916,910.66,12316.236,909.49,12316.236,907.481Zm18.18,9.479h-7.86l-1.62,4.98h-5.069l7.74-21.3h5.79l7.738,21.3h-5.1Zm-1.17-3.57-1.95-5.939a25.683,25.683,0,0,1-.78-3h-.06a20.809,20.809,0,0,1-.78,3l-1.95,5.939Zm18.63.39h-3.06v8.16h-5.07v-21.3h9.36c5.4,0,7.8,2.64,7.8,6.54a5.891,5.891,0,0,1-4.17,5.849l4.71,8.91h-5.49Zm-3.06-3.48h3.27c2.46,0,3.539-1.2,3.539-3.119,0-1.86-1.049-2.97-3.539-2.97h-3.27Zm13.856,1.02c0-6.719,3.96-11.189,10.439-11.189,5.43,0,8.85,3,9.42,7.65l-5.13.9c-.3-2.819-1.86-4.469-4.41-4.469-3.239,0-5.129,2.73-5.129,7.079,0,4.23,1.92,7.05,5.278,7.05,2.37,0,3.96-1.62,4.381-4.38l5.13,1.11c-1.021,4.5-4.32,7.38-9.6,7.38C12366.3,922.45,12362.673,918.04,12362.673,911.32Zm45.119,6.87v3.75H12393v-21.3h14.58v3.75h-9.51v4.8h9v3.72h-9v5.28Zm3.69-17.549h5.609l6.84,12.149a22.033,22.033,0,0,1,1.29,2.76h.061c0-.84-.03-1.71-.03-2.73V900.641h4.65v21.3h-5.4l-7.08-12.27a18.284,18.284,0,0,1-1.26-2.609h-.061c0,.87.03,1.769.03,2.819v12.06h-4.649Zm28.92,10.679c0-6.719,3.96-11.189,10.439-11.189,5.43,0,8.85,3,9.419,7.65l-5.13.9c-.3-2.819-1.859-4.469-4.409-4.469-3.239,0-5.13,2.73-5.13,7.079,0,4.23,1.92,7.05,5.28,7.05,2.369,0,3.959-1.62,4.379-4.38l5.13,1.11c-1.02,4.5-4.32,7.38-9.6,7.38C12444.032,922.45,12440.4,918.04,12440.4,911.32Zm21.72-.03c0-6.869,4.11-11.159,10.5-11.159s10.5,4.29,10.5,11.159-4.11,11.16-10.5,11.16S12462.122,918.13,12462.122,911.29Zm15.779,0c0-4.5-1.95-7.2-5.28-7.2s-5.31,2.7-5.31,7.2c0,4.47,1.98,7.2,5.31,7.2S12477.9,915.79,12477.9,911.29Zm23.1,6.9v3.75h-14.789v-21.3h14.579v3.75h-9.51v4.8h9v3.72h-9v5.28Zm8.4-17.549V914.29a3.961,3.961,0,1,0,7.92,0V900.641h5.069V914.5c0,4.86-3.359,7.95-9.029,7.95s-9.029-3.09-9.029-7.95V900.641Zm25.2,13.139h-3.06v8.16h-5.07v-21.3h9.36c5.4,0,7.8,2.64,7.8,6.54a5.891,5.891,0,0,1-4.17,5.849l4.71,8.91h-5.49Zm-3.06-3.48h3.27c2.461,0,3.54-1.2,3.54-3.119,0-1.86-1.05-2.97-3.54-2.97h-3.27Zm23.13-9.659h8.49c6.39,0,10.529,4.26,10.529,10.529,0,6.39-4.14,10.77-10.59,10.77h-8.43Zm8.22,17.579c3.6,0,5.58-3.24,5.58-7.05,0-3.869-1.859-6.809-5.52-6.809h-3.21V918.22Zm13.62-9.99c1.74-.569,2.16-1.259,2.16-2.609v-.06h-2.4v-4.92h5.13v4.65c0,2.49-1.08,4.049-3.9,4.919Zm8.82,13.71v-21.3h5.07v21.3Zm9.51-21.3h5.07V917.83h8.64v4.11h-13.71Zm14.188,10.649c0-6.869,4.109-11.159,10.5-11.159s10.5,4.29,10.5,11.159-4.11,11.16-10.5,11.16S12609.028,918.13,12609.028,911.29Zm15.779,0c0-4.5-1.949-7.2-5.279-7.2s-5.311,2.7-5.311,7.2c0,4.47,1.98,7.2,5.311,7.2S12624.808,915.79,12624.808,911.29Zm22.62-6.629h-6.21V921.94h-5.04V904.661H12630v-4.02h17.43Z" transform="translate(-12105.5 -861.89)"/>
+    <text id="Un_grand_parc_protégé_pour_le_quartier" data-name="Un grand parc protégé pour le quartier" class="cls-72" transform="translate(92.627 95.99)"><tspan x="0" y="0">Un </tspan><tspan class="cls-73" y="0">g</tspan><tspan class="cls-74" y="0">r</tspan><tspan y="0">and </tspan><tspan class="cls-75" y="0">p</tspan><tspan y="0">a</tspan><tspan class="cls-76" y="0">r</tspan><tspan y="0">c p</tspan><tspan class="cls-77" y="0">r</tspan><tspan class="cls-78" y="0">o</tspan><tspan class="cls-61" y="0">t</tspan><tspan class="cls-56" y="0">é</tspan><tspan class="cls-58" y="0">g</tspan><tspan y="0">é pour le qua</tspan><tspan class="cls-79" y="0">r</tspan><tspan y="0">tier</tspan></text>
+    <text id="_1_aire_d_implantation" data-name="1 aire d’implantation" class="cls-72" transform="translate(92.627 131.99)"><tspan x="0" y="0">1 ai</tspan><tspan class="cls-77" y="0">r</tspan><tspan y="0">e d’i</tspan><tspan class="cls-69" y="0">m</tspan><tspan y="0">pla</tspan><tspan class="cls-60" y="0">n</tspan><tspan class="cls-65" y="0">t</tspan><tspan class="cls-80" y="0">a</tspan><tspan y="0">tion</tspan></text>
+    <rect id="Rectangle_212" data-name="Rectangle 212" class="cls-2" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_213" data-name="Rectangle 213" class="cls-2" width="1190.55" height="841.89"/>
+  </g>
+</svg>
