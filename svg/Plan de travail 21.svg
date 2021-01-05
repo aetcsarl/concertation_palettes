@@ -6,10 +6,14 @@
       }
 
       .cls-2 {
-        fill: none;
+        opacity: 0.6;
       }
 
       .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
         fill: #fff;
       }
     </style>
@@ -18,11 +22,13 @@
     </clipPath>
   </defs>
   <g id="Plan_de_travail_21" data-name="Plan de travail 21" class="cls-1">
-    <rect class="cls-3" width="1190.55" height="841.89"/>
-    <rect id="Rectangle_94" data-name="Rectangle 94" width="1118.551" height="769.891" transform="translate(36 35.999)"/>
-    <rect id="Rectangle_95" data-name="Rectangle 95" class="cls-2" width="1136.55" height="777.891" transform="translate(27 28.999)"/>
-    <rect id="Rectangle_96" data-name="Rectangle 96" class="cls-2" width="1190.551" height="841.89" transform="translate(0)"/>
-    <rect id="Rectangle_97" data-name="Rectangle 97" class="cls-2" width="1190.55" height="841.89" transform="translate(0)"/>
-    <rect id="Rectangle_98" data-name="Rectangle 98" class="cls-2" width="1190.55" height="841.89" transform="translate(0)"/>
+    <rect class="cls-4" width="1190.55" height="841.89"/>
+    <g id="Groupe_56" data-name="Groupe 56" class="cls-2" transform="translate(0 -1723.78)">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="1118.551" height="769.891" transform="translate(36 1759.779)"/>
+      <rect id="Rectangle_95" data-name="Rectangle 95" class="cls-3" width="1136.55" height="777.891" transform="translate(27 1752.779)"/>
+    </g>
+    <rect id="Rectangle_96" data-name="Rectangle 96" class="cls-3" width="1190.551" height="841.89"/>
+    <rect id="Rectangle_97" data-name="Rectangle 97" class="cls-3" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_98" data-name="Rectangle 98" class="cls-3" width="1190.55" height="841.89"/>
   </g>
 </svg>

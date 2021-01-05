@@ -5,7 +5,7 @@
         clip-path: url(#clip-Plan_de_travail_2);
       }
 
-      .cls-12, .cls-2 {
+      .cls-13, .cls-2 {
         font-size: 30px;
       }
 
@@ -43,103 +43,107 @@
       }
 
       .cls-10 {
-        fill: #eadfde;
+        opacity: 0.6;
       }
 
       .cls-11 {
-        fill: none;
+        fill: #eadfde;
       }
 
       .cls-12 {
+        fill: none;
+      }
+
+      .cls-13 {
         font-family: GTAmerica-Light, GT America;
         font-weight: 300;
       }
 
-      .cls-13 {
+      .cls-14 {
         letter-spacing: 0.304em;
       }
 
-      .cls-14 {
+      .cls-15 {
         letter-spacing: -0.02em;
       }
 
-      .cls-15 {
+      .cls-16 {
         letter-spacing: -0.004em;
       }
 
-      .cls-16 {
+      .cls-17 {
         letter-spacing: 0.018em;
       }
 
-      .cls-17 {
+      .cls-18 {
         letter-spacing: -0.002em;
       }
 
-      .cls-18 {
+      .cls-19 {
         letter-spacing: -0.001em;
       }
 
-      .cls-19 {
+      .cls-20 {
         letter-spacing: -0.007em;
       }
 
-      .cls-20 {
+      .cls-21 {
         letter-spacing: -0.011em;
       }
 
-      .cls-21 {
+      .cls-22 {
         letter-spacing: 0.155em;
       }
 
-      .cls-22 {
+      .cls-23 {
         letter-spacing: -0.01em;
       }
 
-      .cls-23 {
+      .cls-24 {
         letter-spacing: -0.117em;
       }
 
-      .cls-24 {
+      .cls-25 {
         letter-spacing: -0.005em;
       }
 
-      .cls-25 {
+      .cls-26 {
         letter-spacing: 0.022em;
       }
 
-      .cls-26 {
+      .cls-27 {
         letter-spacing: -0.009em;
       }
 
-      .cls-27 {
+      .cls-28 {
         letter-spacing: -0.003em;
       }
 
-      .cls-28 {
+      .cls-29 {
         letter-spacing: 0.935em;
       }
 
-      .cls-29 {
+      .cls-30 {
         letter-spacing: 0.934em;
       }
 
-      .cls-30 {
+      .cls-31 {
         letter-spacing: -0.06em;
       }
 
-      .cls-31 {
+      .cls-32 {
         letter-spacing: -0.008em;
       }
 
-      .cls-32 {
+      .cls-33 {
         letter-spacing: 0.017em;
       }
 
-      .cls-33 {
+      .cls-34 {
         letter-spacing: 0.127em;
       }
 
-      .cls-34 {
+      .cls-35 {
         fill: #fff;
       }
     </style>
@@ -148,37 +152,45 @@
     </clipPath>
   </defs>
   <g id="Plan_de_travail_2" data-name="Plan de travail 2" class="cls-1">
-    <rect class="cls-34" width="1190.55" height="841.89"/>
+    <rect class="cls-35" width="1190.55" height="841.89"/>
     <text id="ORGANISATION_DE_LA_DISCUSSION" data-name="ORGANISATION DE LA DISCUSSION" class="cls-2" transform="translate(92.626 60.05)"><tspan x="0" y="0">O</tspan><tspan class="cls-3" y="0">R</tspan><tspan class="cls-4" y="0">G</tspan><tspan y="0">ANI</tspan><tspan class="cls-5" y="0">S</tspan><tspan class="cls-6" y="0">A</tspan><tspan y="0">TION DE </tspan><tspan class="cls-7" y="0">L</tspan><tspan y="0">A DISC</tspan><tspan class="cls-8" y="0">U</tspan><tspan class="cls-9" y="0">S</tspan><tspan y="0">SION</tspan></text>
-    <rect id="Rectangle_585" data-name="Rectangle 585" class="cls-10" width="1118.551" height="50.858" transform="translate(36 192.921)"/>
-    <rect id="Rectangle_586" data-name="Rectangle 586" class="cls-11" width="1136.55" height="58.859" transform="translate(27 185.92)"/>
-    <rect id="Rectangle_587" data-name="Rectangle 587" class="cls-10" width="1118.551" height="50.858" transform="translate(36 264.496)"/>
-    <rect id="Rectangle_588" data-name="Rectangle 588" class="cls-11" width="1136.55" height="58.859" transform="translate(27 257.495)"/>
-    <rect id="Rectangle_589" data-name="Rectangle 589" class="cls-10" width="1118.551" height="50.858" transform="translate(36 336.071)"/>
-    <rect id="Rectangle_590" data-name="Rectangle 590" class="cls-11" width="1136.55" height="58.858" transform="translate(27 329.071)"/>
-    <rect id="Rectangle_591" data-name="Rectangle 591" class="cls-10" width="1118.551" height="50.858" transform="translate(36 590.48)"/>
-    <rect id="Rectangle_592" data-name="Rectangle 592" class="cls-11" width="1136.55" height="58.858" transform="translate(27 583.48)"/>
-    <rect id="Rectangle_593" data-name="Rectangle 593" class="cls-11" width="1190.551" height="841.89"/>
-    <text id="_1." data-name="1." class="cls-12" transform="translate(36 228)"><tspan x="0" y="0">1.</tspan></text>
-    <text id="_" data-name="  " class="cls-12" transform="translate(54.931 228)"><tspan class="cls-13" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Restitution_de_la_séance_de_concertation_I_du_10_octobre_2020" data-name="Restitution de la séance de concertation I du 10 octobre 2020" class="cls-12" transform="translate(108 228)"><tspan class="cls-14" x="0" y="0">R</tspan><tspan y="0">e</tspan><tspan class="cls-15" y="0">s</tspan><tspan y="0">titution de la séance de conce</tspan><tspan class="cls-16" y="0">r</tspan><tspan class="cls-15" y="0">t</tspan><tspan class="cls-17" y="0">a</tspan><tspan y="0">tion I du 10 o</tspan><tspan class="cls-18" y="0">c</tspan><tspan class="cls-8" y="0">t</tspan><tspan y="0">ob</tspan><tspan class="cls-19" y="0">r</tspan><tspan y="0">e </tspan><tspan class="cls-20" y="0">2</tspan><tspan y="0">0</tspan><tspan class="cls-20" y="0">2</tspan><tspan y="0">0</tspan></text>
-    <text id="_2." data-name="2." class="cls-12" transform="translate(36 300)"><tspan x="0" y="0">2.</tspan></text>
-    <text id="_2" data-name="  " class="cls-12" transform="translate(59.4 300)"><tspan class="cls-21" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Identi_cation_des_thèmes_et_enjeux" data-name="Identiﬁcation des thèmes et enjeux" class="cls-12" transform="translate(108 300)"><tspan x="0" y="0">Ide</tspan><tspan class="cls-22" y="0">n</tspan><tspan y="0">tiﬁc</tspan><tspan class="cls-17" y="0">a</tspan><tspan y="0">tion des thèmes </tspan><tspan class="cls-18" y="0">e</tspan><tspan y="0">t enjeux</tspan></text>
-    <text id="_3._" data-name="3. " class="cls-12" transform="translate(36 372)"><tspan class="cls-3" x="0" y="0">3</tspan><tspan y="0">. </tspan></text>
-    <text id="_3" data-name="  " class="cls-12" transform="translate(67.561 372)"><tspan class="cls-23" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Présentation_et_discussion_autour_de_4_scénarios_différents_et_contrastés" data-name="Présentation et discussion autour de 4 scénarios, différents et contrastés" class="cls-12" transform="translate(108 372)"><tspan x="0" y="0">P</tspan><tspan class="cls-19" y="0">r</tspan><tspan y="0">ése</tspan><tspan class="cls-22" y="0">n</tspan><tspan class="cls-24" y="0">t</tspan><tspan class="cls-18" y="0">a</tspan><tspan y="0">tion </tspan><tspan class="cls-17" y="0">e</tspan><tspan y="0">t discu</tspan><tspan class="cls-19" y="0">s</tspan><tspan y="0">sion au</tspan><tspan class="cls-19" y="0">t</tspan><tspan y="0">our de 4 scénario</tspan><tspan class="cls-22" y="0">s</tspan><tspan y="0">, di</tspan><tspan class="cls-25" y="0">f</tspan><tspan class="cls-5" y="0">f</tspan><tspan y="0">é</tspan><tspan class="cls-19" y="0">r</tspan><tspan y="0">e</tspan><tspan class="cls-26" y="0">n</tspan><tspan class="cls-27" y="0">t</tspan><tspan y="0">s </tspan><tspan class="cls-18" y="0">e</tspan><tspan y="0">t co</tspan><tspan class="cls-26" y="0">n</tspan><tspan y="0">t</tspan><tspan class="cls-26" y="0">r</tspan><tspan y="0">a</tspan><tspan class="cls-15" y="0">s</tspan><tspan class="cls-8" y="0">t</tspan><tspan y="0">és</tspan></text>
-    <text id="_4" data-name="     " class="cls-12" transform="translate(36 444)"><tspan class="cls-28" x="0" y="0"> </tspan><tspan class="cls-29" y="0" xml:space="preserve">  </tspan><tspan class="cls-28" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Scénario_Témoin_-_15mn" data-name="Scénario « Témoin » - 15mn" class="cls-12" transform="translate(216 444)"><tspan x="0" y="0">Scénario « </tspan><tspan class="cls-30" y="0">T</tspan><tspan y="0">émoin » - 15</tspan><tspan class="cls-18" y="0">m</tspan><tspan y="0">n</tspan></text>
-    <text id="_5" data-name="     " class="cls-12" transform="translate(36 480)"><tspan class="cls-28" x="0" y="0"> </tspan><tspan class="cls-29" y="0" xml:space="preserve">  </tspan><tspan class="cls-28" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Scénario_Un_parc_en_coeur_d_îlot_-_15mn" data-name="Scénario « Un parc en coeur d’îlot » - 15mn" class="cls-12" transform="translate(216 480)"><tspan x="0" y="0">Scénario « Un pa</tspan><tspan class="cls-31" y="0">r</tspan><tspan y="0">c en coeur d’îl</tspan><tspan class="cls-18" y="0">o</tspan><tspan y="0">t » - 15</tspan><tspan class="cls-18" y="0">m</tspan><tspan y="0">n</tspan></text>
-    <text id="_6" data-name="     " class="cls-12" transform="translate(36 516)"><tspan class="cls-28" x="0" y="0"> </tspan><tspan class="cls-29" y="0" xml:space="preserve">  </tspan><tspan class="cls-28" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Scénario_Une_place_animée_-_15mn" data-name="Scénario « Une place animée » - 15mn" class="cls-12" transform="translate(216 516)"><tspan x="0" y="0">Scénario « Une pl</tspan><tspan class="cls-15" y="0">a</tspan><tspan y="0">ce animée » - 15</tspan><tspan class="cls-18" y="0">m</tspan><tspan y="0">n</tspan></text>
-    <text id="_7" data-name="     " class="cls-12" transform="translate(36 552)"><tspan class="cls-28" x="0" y="0"> </tspan><tspan class="cls-29" y="0" xml:space="preserve">  </tspan><tspan class="cls-28" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Scénario_Un_parc_ouvert_et_habité_-_15mn" data-name="Scénario « Un parc ouvert et habité » - 15mn" class="cls-12" transform="translate(216 552)"><tspan x="0" y="0">Scénario « Un pa</tspan><tspan class="cls-31" y="0">r</tspan><tspan y="0">c ou</tspan><tspan class="cls-15" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-32" y="0">r</tspan><tspan y="0">t </tspan><tspan class="cls-18" y="0">e</tspan><tspan y="0">t habi</tspan><tspan class="cls-8" y="0">t</tspan><tspan y="0">é » - 15</tspan><tspan class="cls-18" y="0">m</tspan><tspan y="0">n</tspan></text>
-    <text id="_4." data-name="4." class="cls-12" transform="translate(36 624)"><tspan class="cls-26" x="0" y="0">4</tspan><tspan y="0">.</tspan></text>
-    <text id="_8" data-name="  " class="cls-12" transform="translate(60.24 624)"><tspan class="cls-33" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
-    <text id="Bilan_de_la_discussion_et_questionnaire_en_ligne" data-name="Bilan de la discussion et questionnaire en ligne" class="cls-12" transform="translate(108 624)"><tspan x="0" y="0">Bilan de la discu</tspan><tspan class="cls-31" y="0">s</tspan><tspan y="0">sion </tspan><tspan class="cls-17" y="0">e</tspan><tspan y="0">t que</tspan><tspan class="cls-15" y="0">s</tspan><tspan y="0">tio</tspan><tspan class="cls-18" y="0">n</tspan><tspan y="0">nai</tspan><tspan class="cls-31" y="0">r</tspan><tspan y="0">e en li</tspan><tspan class="cls-8" y="0">g</tspan><tspan y="0">ne</tspan></text>
+    <g id="Groupe_396" data-name="Groupe 396" class="cls-10" transform="translate(-8786.55)">
+      <rect id="Rectangle_583" data-name="Rectangle 583" class="cls-11" width="1118.551" height="50.858" transform="translate(8822.55 192.921)"/>
+      <rect id="Rectangle_584" data-name="Rectangle 584" class="cls-12" width="1136.55" height="58.859" transform="translate(8813.55 185.92)"/>
+    </g>
+    <g id="Groupe_397" data-name="Groupe 397" class="cls-10" transform="translate(-8786.55)">
+      <rect id="Rectangle_585" data-name="Rectangle 585" class="cls-11" width="1118.551" height="50.858" transform="translate(8822.55 264.496)"/>
+      <rect id="Rectangle_586" data-name="Rectangle 586" class="cls-12" width="1136.55" height="58.859" transform="translate(8813.55 257.495)"/>
+    </g>
+    <g id="Groupe_398" data-name="Groupe 398" class="cls-10" transform="translate(-8786.55)">
+      <rect id="Rectangle_587" data-name="Rectangle 587" class="cls-11" width="1118.551" height="50.858" transform="translate(8822.55 336.071)"/>
+      <rect id="Rectangle_588" data-name="Rectangle 588" class="cls-12" width="1136.55" height="58.858" transform="translate(8813.55 329.071)"/>
+    </g>
+    <g id="Groupe_399" data-name="Groupe 399" class="cls-10" transform="translate(-8786.55)">
+      <rect id="Rectangle_589" data-name="Rectangle 589" class="cls-11" width="1118.551" height="50.858" transform="translate(8822.55 590.48)"/>
+      <rect id="Rectangle_590" data-name="Rectangle 590" class="cls-12" width="1136.55" height="58.858" transform="translate(8813.55 583.48)"/>
+    </g>
+    <rect id="Rectangle_591" data-name="Rectangle 591" class="cls-12" width="1190.551" height="841.89"/>
+    <text id="_1." data-name="1." class="cls-13" transform="translate(36 228)"><tspan x="0" y="0">1.</tspan></text>
+    <text id="_" data-name="  " class="cls-13" transform="translate(54.931 228)"><tspan class="cls-14" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Restitution_de_la_séance_de_concertation_I_du_10_octobre_2020" data-name="Restitution de la séance de concertation I du 10 octobre 2020" class="cls-13" transform="translate(108 228)"><tspan class="cls-15" x="0" y="0">R</tspan><tspan y="0">e</tspan><tspan class="cls-16" y="0">s</tspan><tspan y="0">titution de la séance de conce</tspan><tspan class="cls-17" y="0">r</tspan><tspan class="cls-16" y="0">t</tspan><tspan class="cls-18" y="0">a</tspan><tspan y="0">tion I du 10 o</tspan><tspan class="cls-19" y="0">c</tspan><tspan class="cls-8" y="0">t</tspan><tspan y="0">ob</tspan><tspan class="cls-20" y="0">r</tspan><tspan y="0">e </tspan><tspan class="cls-21" y="0">2</tspan><tspan y="0">0</tspan><tspan class="cls-21" y="0">2</tspan><tspan y="0">0</tspan></text>
+    <text id="_2." data-name="2." class="cls-13" transform="translate(36 300)"><tspan x="0" y="0">2.</tspan></text>
+    <text id="_2" data-name="  " class="cls-13" transform="translate(59.4 300)"><tspan class="cls-22" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Identi_cation_des_thèmes_et_enjeux" data-name="Identiﬁcation des thèmes et enjeux" class="cls-13" transform="translate(108 300)"><tspan x="0" y="0">Ide</tspan><tspan class="cls-23" y="0">n</tspan><tspan y="0">tiﬁc</tspan><tspan class="cls-18" y="0">a</tspan><tspan y="0">tion des thèmes </tspan><tspan class="cls-19" y="0">e</tspan><tspan y="0">t enjeux</tspan></text>
+    <text id="_3._" data-name="3. " class="cls-13" transform="translate(36 372)"><tspan class="cls-3" x="0" y="0">3</tspan><tspan y="0">. </tspan></text>
+    <text id="_3" data-name="  " class="cls-13" transform="translate(67.561 372)"><tspan class="cls-24" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Présentation_et_discussion_autour_de_4_scénarios_différents_et_contrastés" data-name="Présentation et discussion autour de 4 scénarios, différents et contrastés" class="cls-13" transform="translate(108 372)"><tspan x="0" y="0">P</tspan><tspan class="cls-20" y="0">r</tspan><tspan y="0">ése</tspan><tspan class="cls-23" y="0">n</tspan><tspan class="cls-25" y="0">t</tspan><tspan class="cls-19" y="0">a</tspan><tspan y="0">tion </tspan><tspan class="cls-18" y="0">e</tspan><tspan y="0">t discu</tspan><tspan class="cls-20" y="0">s</tspan><tspan y="0">sion au</tspan><tspan class="cls-20" y="0">t</tspan><tspan y="0">our de 4 scénario</tspan><tspan class="cls-23" y="0">s</tspan><tspan y="0">, di</tspan><tspan class="cls-26" y="0">f</tspan><tspan class="cls-5" y="0">f</tspan><tspan y="0">é</tspan><tspan class="cls-20" y="0">r</tspan><tspan y="0">e</tspan><tspan class="cls-27" y="0">n</tspan><tspan class="cls-28" y="0">t</tspan><tspan y="0">s </tspan><tspan class="cls-19" y="0">e</tspan><tspan y="0">t co</tspan><tspan class="cls-27" y="0">n</tspan><tspan y="0">t</tspan><tspan class="cls-27" y="0">r</tspan><tspan y="0">a</tspan><tspan class="cls-16" y="0">s</tspan><tspan class="cls-8" y="0">t</tspan><tspan y="0">és</tspan></text>
+    <text id="_4" data-name="     " class="cls-13" transform="translate(36 444)"><tspan class="cls-29" x="0" y="0"> </tspan><tspan class="cls-30" y="0" xml:space="preserve">  </tspan><tspan class="cls-29" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Scénario_Témoin_-_15mn" data-name="Scénario « Témoin » - 15mn" class="cls-13" transform="translate(216 444)"><tspan x="0" y="0">Scénario « </tspan><tspan class="cls-31" y="0">T</tspan><tspan y="0">émoin » - 15</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">n</tspan></text>
+    <text id="_5" data-name="     " class="cls-13" transform="translate(36 480)"><tspan class="cls-29" x="0" y="0"> </tspan><tspan class="cls-30" y="0" xml:space="preserve">  </tspan><tspan class="cls-29" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Scénario_Un_parc_en_coeur_d_îlot_-_15mn" data-name="Scénario « Un parc en coeur d’îlot » - 15mn" class="cls-13" transform="translate(216 480)"><tspan x="0" y="0">Scénario « Un pa</tspan><tspan class="cls-32" y="0">r</tspan><tspan y="0">c en coeur d’îl</tspan><tspan class="cls-19" y="0">o</tspan><tspan y="0">t » - 15</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">n</tspan></text>
+    <text id="_6" data-name="     " class="cls-13" transform="translate(36 516)"><tspan class="cls-29" x="0" y="0"> </tspan><tspan class="cls-30" y="0" xml:space="preserve">  </tspan><tspan class="cls-29" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Scénario_Une_place_animée_-_15mn" data-name="Scénario « Une place animée » - 15mn" class="cls-13" transform="translate(216 516)"><tspan x="0" y="0">Scénario « Une pl</tspan><tspan class="cls-16" y="0">a</tspan><tspan y="0">ce animée » - 15</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">n</tspan></text>
+    <text id="_7" data-name="     " class="cls-13" transform="translate(36 552)"><tspan class="cls-29" x="0" y="0"> </tspan><tspan class="cls-30" y="0" xml:space="preserve">  </tspan><tspan class="cls-29" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Scénario_Un_parc_ouvert_et_habité_-_15mn" data-name="Scénario « Un parc ouvert et habité » - 15mn" class="cls-13" transform="translate(216 552)"><tspan x="0" y="0">Scénario « Un pa</tspan><tspan class="cls-32" y="0">r</tspan><tspan y="0">c ou</tspan><tspan class="cls-16" y="0">v</tspan><tspan y="0">e</tspan><tspan class="cls-33" y="0">r</tspan><tspan y="0">t </tspan><tspan class="cls-19" y="0">e</tspan><tspan y="0">t habi</tspan><tspan class="cls-8" y="0">t</tspan><tspan y="0">é » - 15</tspan><tspan class="cls-19" y="0">m</tspan><tspan y="0">n</tspan></text>
+    <text id="_4." data-name="4." class="cls-13" transform="translate(36 624)"><tspan class="cls-27" x="0" y="0">4</tspan><tspan y="0">.</tspan></text>
+    <text id="_8" data-name="  " class="cls-13" transform="translate(60.24 624)"><tspan class="cls-34" x="0" y="0"> </tspan><tspan y="0"> </tspan></text>
+    <text id="Bilan_de_la_discussion_et_questionnaire_en_ligne" data-name="Bilan de la discussion et questionnaire en ligne" class="cls-13" transform="translate(108 624)"><tspan x="0" y="0">Bilan de la discu</tspan><tspan class="cls-32" y="0">s</tspan><tspan y="0">sion </tspan><tspan class="cls-18" y="0">e</tspan><tspan y="0">t que</tspan><tspan class="cls-16" y="0">s</tspan><tspan y="0">tio</tspan><tspan class="cls-19" y="0">n</tspan><tspan y="0">nai</tspan><tspan class="cls-32" y="0">r</tspan><tspan y="0">e en li</tspan><tspan class="cls-8" y="0">g</tspan><tspan y="0">ne</tspan></text>
     <path id="Tracé_830" data-name="Tracé 830" d="M8968.874,508.048c.109-.322.218-.645.328-.968-.918-2.955-1.717-5.954-2.787-8.853a9.209,9.209,0,0,1,.5-7.591c5.834-12.6,4.834-24.837-3.431-35.97-8.1-10.9-19.311-15.564-32.8-13.675-14.085,1.973-23.848,9.994-28.323,23.364-4.376,13.065-1.733,25.273,8.013,35.246,9.9,10.132,22.337,13.647,35.552,8.866,7.942-2.873,15.032-5,22.947-.419m-62.528-6.881c-7.907-9.482-11.252-20.094-9.274-32.1,2-12.118,8.851-21.056,19.2-27.627-8.206-12.94-19.389-21.168-34.35-23.263-18.519-2.594-33.855,3.983-45.078,18.684-11.049,14.472-12.626,30.663-5.489,47.455a11.017,11.017,0,0,1,.543,8.31c-1.4,4.21-2.688,8.455-4.16,13.115,5.608-.786,10.724-1.618,15.868-2.15a7.5,7.5,0,0,1,4.48.955c6.025,3.828,12.395,6.7,19.5,7.71,14.52,2.071,27.375-1.653,38.768-11.09m13.579-61.581c12.291-5.031,24.151-4.273,35.487,2.2,17.092,9.761,23.922,31.734,15.877,49.823a11.271,11.271,0,0,0-.42,6.514c.74,3.477,2.236,6.788,3.239,10.22.314,1.076.532,2.819-.041,3.348-.661.61-2.308.464-3.427.208-4.05-.927-8.04-2.116-12.095-3.028a5.7,5.7,0,0,0-3.563.246c-16.245,8.277-31.408,6.564-45.859-4.829-1.922,1.37-3.884,2.952-6.018,4.257-18.445,11.282-37.032,11.366-55.823.76a10.522,10.522,0,0,0-5.749-1.254c-5.173.449-10.306,1.363-15.456,2.076-3.123.432-4.119-.641-3.2-3.65,1.588-5.187,3.395-10.309,4.887-15.522a6.633,6.633,0,0,0-.271-4.211,51.543,51.543,0,0,1,45.844-72.871c18.214-.418,32.674,6.9,43.553,21.433.968,1.291,1.869,2.631,3.034,4.278" transform="translate(-8786.55)"/>
     <path id="Tracé_831" data-name="Tracé 831" d="M8858.047,467.052a4.167,4.167,0,1,1-4.167-4.167,4.168,4.168,0,0,1,4.167,4.167" transform="translate(-8786.55)"/>
     <path id="Tracé_832" data-name="Tracé 832" d="M8878.07,467.052a4.167,4.167,0,1,1-4.167-4.167,4.168,4.168,0,0,1,4.167,4.167" transform="translate(-8786.55)"/>
@@ -186,8 +198,8 @@
     <path id="Tracé_834" data-name="Tracé 834" d="M8923.487,476.681a4.167,4.167,0,1,1-4.167-4.167,4.168,4.168,0,0,1,4.167,4.167" transform="translate(-8786.55)"/>
     <path id="Tracé_835" data-name="Tracé 835" d="M8937.376,476.681a4.167,4.167,0,1,1-4.167-4.167,4.168,4.168,0,0,1,4.167,4.167" transform="translate(-8786.55)"/>
     <path id="Tracé_836" data-name="Tracé 836" d="M8951.728,476.681a4.167,4.167,0,1,1-4.167-4.167,4.167,4.167,0,0,1,4.167,4.167" transform="translate(-8786.55)"/>
-    <rect id="Rectangle_594" data-name="Rectangle 594" class="cls-11" width="1190.551" height="841.89"/>
-    <rect id="Rectangle_595" data-name="Rectangle 595" class="cls-11" width="1190.55" height="841.89"/>
-    <rect id="Rectangle_596" data-name="Rectangle 596" class="cls-11" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_592" data-name="Rectangle 592" class="cls-12" width="1190.551" height="841.89"/>
+    <rect id="Rectangle_593" data-name="Rectangle 593" class="cls-12" width="1190.55" height="841.89"/>
+    <rect id="Rectangle_594" data-name="Rectangle 594" class="cls-12" width="1190.55" height="841.89"/>
   </g>
 </svg>
